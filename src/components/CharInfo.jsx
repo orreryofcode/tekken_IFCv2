@@ -1,7 +1,5 @@
-import React from "react";
 import CharPortrait from "./CharPortrait";
 import CharBio from "./CharBio";
-import Button from "./Button";
 
 function CharInfo() {
   return (

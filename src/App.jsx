@@ -1,21 +1,25 @@
 import "./App.css";
-import CharInfo from "./components/CharInfo";
-import KeyMoves from "./components/KeyMoves";
-import SandW from "./components/SandW";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Navbar from "./components/Navbar";
-import TopMoves from "./components/TopMoves";
-import FrameDataTable from "./components/FrameDataTable";
+import Home from "./pages/Home";
+import About from "./pages/About";
+import Fighters from "./pages/Fighters";
+import Support from "./pages/Support";
 
 function App() {
   return (
-    <div className='App'>
-      <Navbar />
-      <CharInfo />
-      <SandW />
-      <TopMoves />
-      <KeyMoves />
-      <FrameDataTable />
-    </div>
+    <Router>
+      <div className='App'>
+        <Navbar />
+
+        <Routes>
+          <Route exact path='/' element={<Home />} />
+          <Route path='/about' element={<About />} />
+          <Route path='/fighters' element={<Fighters />} />
+          <Route path='/support' element={<Support />} />
+        </Routes>
+      </div>
+    </Router>
   );
 }
 

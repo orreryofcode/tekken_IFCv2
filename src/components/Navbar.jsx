@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 import logo from "../assets/zaibatsulogo.svg";
 
 function Navbar() {
@@ -6,14 +7,14 @@ function Navbar() {
       <nav className='navbar__nav'>
         <ul className='navbar__list'>
           <li className='navbar__item'>
-            <a href='' className='navbar__link'>
+            <Link to='/' className='navbar__link'>
               Home
-            </a>
+            </Link>
           </li>
           <li className='navbar__item'>
-            <a href='' className='navbar__link'>
+            <Link to='/about' className='navbar__link'>
               About
-            </a>
+            </Link>
           </li>
 
           <li className='navbar__item'>
@@ -21,14 +22,14 @@ function Navbar() {
           </li>
 
           <li className='navbar__item'>
-            <a href='' className='navbar__link'>
+            <Link to='/fighters' className='navbar__link'>
               Fighters
-            </a>
+            </Link>
           </li>
           <li className='navbar__item'>
-            <a href='' className='navbar__link'>
+            <Link to='/support' className='navbar__link'>
               Support
-            </a>
+            </Link>
           </li>
         </ul>
       </nav>

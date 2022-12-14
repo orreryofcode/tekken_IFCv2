@@ -125,7 +125,7 @@
 
 .charInfo__name h1 {
   font-size: 12rem;
-  text-align: right;
+  text-align: center;
   font-style: italic;
   /* letter-spacing: 20px; */
   white-space: nowrap;
@@ -155,8 +155,8 @@
 }
 
 .charInfo__btns {
-  padding: 0.8rem 0rem;
-  padding-top: 2rem;
+  padding: 0.8rem 2.1rem;
+  padding-top: 5rem;
   display: flex;
   justify-content: flex-end;
 }
@@ -193,7 +193,7 @@
 }
 
 .charInfo__bio {
-  padding: 2rem 2rem;
+  padding: 0.5rem 2rem;
   font-size: 1.2rem;
 }
 

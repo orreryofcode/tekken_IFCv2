@@ -1,4 +1,5 @@
 #root {
+  position: relative;
   min-width: 1076px;
   max-width: 1076px;
   margin: 0 auto;
@@ -64,6 +65,10 @@
   row-gap: 1.2rem;
 }
 
+.charInfo__wrapper {
+  position: relative;
+}
+
 .charInfo__container {
   padding: 1rem 0rem;
   padding-top: 20rem;
@@ -75,7 +80,7 @@
 .charInfo__portrait {
   position: relative;
   background-color: #5c1c23;
-  background-image: url("../src/assets/character_portraits/jinkazama_rgb.svg");
+
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -88,7 +93,7 @@
 .charInfo__portrait--select {
   position: relative;
   background-color: #5c1c23;
-  background-image: url("../src/assets/character_portraits/jinkazama.svg");
+
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -128,21 +133,25 @@
 
 .charInfo__name--jpn {
   position: absolute;
-  margin-left: -12.5rem;
-  margin-top: 25rem;
+  text-align: center;
+  top: 25%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 
   z-index: -1;
 }
 
 .charInfo__name--jpn span {
+  font-size: 45rem;
+  font-weight: 700;
+
+  white-space: nowrap;
+
   background-image: linear-gradient(to bottom, #760101, #2e0000, transparent);
   -webkit-background-clip: text;
   background-clip: text;
 
   -webkit-text-fill-color: transparent;
-  font-size: 45rem;
-  font-weight: 700;
-  white-space: nowrap;
 }
 
 .charInfo__btns {

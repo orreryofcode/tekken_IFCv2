@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Jin Kazama",
+        "namejp": "風間仁",
+        "age": 21,
+        "img": "/src/assets/character_portraits/jinkazama_rgb.svg",
+        "imgBW": "../character_portraits/jinkazama.svg",
+        "natl": "../flags/jpn.png",
+        "style": "Mishima/Kazama style Karate"
+    }
+    
+   
+]

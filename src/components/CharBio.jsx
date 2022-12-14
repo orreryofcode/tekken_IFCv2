@@ -1,6 +1,4 @@
-import jpn from "../assets/Flag_of_Japan.svg.png";
-
-function CharBio() {
+function CharBio({ charDetails }) {
   return (
     <div className='charInfo__bio-wrapper'>
       <div className='charInfo__bio'>
@@ -19,18 +17,22 @@ function CharBio() {
       <div className='charInfo__demographics'>
         <p>
           {" "}
-          <span>Age:</span> 21
+          <span>Age:</span> {charDetails[0].age}
         </p>
         <p>
           {" "}
           <span>Nationality:</span>{" "}
           <span>
-            <img src={jpn} alt='Japan' className='charInfo__natl' />
+            <img
+              src={charDetails[0].natl}
+              alt='Japan'
+              className='charInfo__natl'
+            />
           </span>
         </p>
         <p>
           {" "}
-          <span>Fighting Style:</span> Mishima/Kazama Karate
+          <span>Fighting Style:</span> {charDetails[0].style}
         </p>
       </div>
     </div>

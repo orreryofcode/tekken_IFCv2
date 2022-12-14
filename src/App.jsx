@@ -4,6 +4,8 @@ import Navbar from "./components/Navbar";
 import Home from "./pages/Home";
 import About from "./pages/About";
 import Fighters from "./pages/Fighters";
+import Fighter from "./pages/Fighter";
+
 import Support from "./pages/Support";
 
 function App() {
@@ -15,7 +17,10 @@ function App() {
         <Routes>
           <Route exact path='/' element={<Home />} />
           <Route path='/about' element={<About />} />
-          <Route path='/fighters' element={<Fighters />} />
+          <Route path='/fighters'>
+            <Route path=':id' element={<Fighter />} />
+          </Route>
+
           <Route path='/support' element={<Support />} />
         </Routes>
       </div>

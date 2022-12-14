@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Bryan Fury",
+        "namejp": "ブライアン",
+        "age": 31,
+
+        "img": "/src/assets/character_portraits/bryan_rgb.svg",
+        "imgBW": "../character_portraits/bryan.svg",
+        "natl": "../flags/usa.png",
+        "style": "Kickboxing"
+    }
+   
+]

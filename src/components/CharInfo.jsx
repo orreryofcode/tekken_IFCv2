@@ -1,5 +1,4 @@
 import { useState } from "react";
-
 import CharPortrait from "./CharPortrait";
 import CharBio from "./CharBio";
 import KeyMoves from "../components/KeyMoves";
@@ -7,7 +6,7 @@ import SandW from "../components/SandW";
 import TopMoves from "../components/TopMoves";
 import FrameDataTable from "../components/FrameDataTable";
 
-function CharInfo({ frameData }) {
+function CharInfo({ frameData, charData }) {
   const [dataToRender, setDataToRender] = useState("topMoves");
   const renderData = (e) => {
     e.preventDefault();
@@ -17,16 +16,16 @@ function CharInfo({ frameData }) {
   return (
     <>
       <div className='charInfo__name--jpn'>
-        <span>風間仁</span>
+        <span>{charData[0].namejp}</span>
       </div>
       <div className='charInfo__container'>
         <div>
-          <CharPortrait />
+          <CharPortrait charImg={charData[0].img} />
         </div>
 
         <div className='charInfo__details'>
           <div className='charInfo__name'>
-            <h1>Jin Kazama</h1>
+            <h1>{charData[0].name}</h1>
           </div>
 
           <div className='charInfo__btns'>
@@ -55,7 +54,7 @@ function CharInfo({ frameData }) {
               Notable Players
             </button>
           </div>
-          <CharBio />
+          <CharBio charDetails={charData} />
         </div>
       </div>
 
@@ -64,7 +63,6 @@ function CharInfo({ frameData }) {
           <SandW /> <TopMoves /> <KeyMoves />
         </>
       )}
-
       {dataToRender === "frameData" && <FrameDataTable frameData={frameData} />}
     </>
   );

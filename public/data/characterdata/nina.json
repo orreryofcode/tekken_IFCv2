@@ -1,0 +1,11 @@
+[
+    {
+        "name": "Nina Williams",
+        "namejp": "ニーナ",
+        "age": 43,
+        "img": "/src/assets/character_portraits/nina_rgb.svg",
+        "imgBW": "../character_portraits/nina.svg",
+        "natl": "../assets/flags/ire.png",
+        "style": "Aikido"
+    }
+]

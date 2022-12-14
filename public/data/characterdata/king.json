@@ -1,0 +1,12 @@
+[
+    {
+        "name": "King",
+        "namejp": "キング",
+        "age": 30,
+        "img": "/src/assets/character_portraits/king_rgb.svg",
+        "imgBW": "../character_portraits/king.svg",
+        "natl": "../flags/mx.png",
+        "style": "Lucha Libre"
+    }
+   
+]

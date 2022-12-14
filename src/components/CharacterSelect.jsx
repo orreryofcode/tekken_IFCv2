@@ -1,4 +1,14 @@
+import { Link } from "react-router-dom";
+import { jin, bryan, king, nina } from "../assets/character_portraits/images";
+
 function CharacterSelect() {
+  const characters = [
+    { name: "Jin", ref: "jin", img: jin },
+    { name: "Bryan", ref: "bryan", img: bryan },
+    { name: "King", ref: "king", img: king },
+    { name: "Nina", ref: "nina", img: nina },
+  ];
+
   return (
     <div className='characterSelect__container'>
       <div className='characterSelect__heading'>
@@ -6,210 +16,17 @@ function CharacterSelect() {
       </div>
 
       <div className='characterSelect__list'>
-        <div className='charInfo__portrait--select'>
-          {" "}
-          <span>Jin</span>
-        </div>
-        <div className='charInfo__portrait--select'>
-          {" "}
-          <span>Jin</span>
-        </div>
-        <div className='charInfo__portrait--select'>
-          {" "}
-          <span>Jin</span>
-        </div>
-        <div className='charInfo__portrait--select'>
-          {" "}
-          <span>Jin</span>
-        </div>
-        <div className='charInfo__portrait--select'>
-          {" "}
-          <span>Jin</span>
-        </div>
-        <div className='charInfo__portrait--select'>
-          {" "}
-          <span>Jin</span>
-        </div>
-        <div className='charInfo__portrait--select'>
-          {" "}
-          <span>Jin</span>
-        </div>
-        <div className='charInfo__portrait--select'>
-          {" "}
-          <span>Jin</span>
-        </div>
-        <div className='charInfo__portrait--select'>
-          {" "}
-          <span>Jin</span>
-        </div>
-        <div className='charInfo__portrait--select'>
-          {" "}
-          <span>Jin</span>
-        </div>
-
-        <div className='charInfo__portrait--select'>
-          {" "}
-          <span>Jin</span>
-        </div>
-        <div className='charInfo__portrait--select'>
-          {" "}
-          <span>Jin</span>
-        </div>
-        <div className='charInfo__portrait--select'>
-          {" "}
-          <span>Jin</span>
-        </div>
-        <div className='charInfo__portrait--select'>
-          {" "}
-          <span>Jin</span>
-        </div>
-        <div className='charInfo__portrait--select'>
-          {" "}
-          <span>Jin</span>
-        </div>
-        <div className='charInfo__portrait--select'>
-          {" "}
-          <span>Jin</span>
-        </div>
-        <div className='charInfo__portrait--select'>
-          {" "}
-          <span>Jin</span>
-        </div>
-        <div className='charInfo__portrait--select'>
-          {" "}
-          <span>Jin</span>
-        </div>
-        <div className='charInfo__portrait--select'>
-          {" "}
-          <span>Jin</span>
-        </div>
-        <div className='charInfo__portrait--select'>
-          {" "}
-          <span>Jin</span>
-        </div>
-
-        <div className='charInfo__portrait--select'>
-          {" "}
-          <span>Jin</span>
-        </div>
-        <div className='charInfo__portrait--select'>
-          {" "}
-          <span>Jin</span>
-        </div>
-        <div className='charInfo__portrait--select'>
-          {" "}
-          <span>Jin</span>
-        </div>
-        <div className='charInfo__portrait--select'>
-          {" "}
-          <span>Jin</span>
-        </div>
-        <div className='charInfo__portrait--select'>
-          {" "}
-          <span>Jin</span>
-        </div>
-        <div className='charInfo__portrait--select'>
-          {" "}
-          <span>Jin</span>
-        </div>
-        <div className='charInfo__portrait--select'>
-          {" "}
-          <span>Jin</span>
-        </div>
-        <div className='charInfo__portrait--select'>
-          {" "}
-          <span>Jin</span>
-        </div>
-        <div className='charInfo__portrait--select'>
-          {" "}
-          <span>Jin</span>
-        </div>
-        <div className='charInfo__portrait--select'>
-          {" "}
-          <span>Jin</span>
-        </div>
-
-        <div className='charInfo__portrait--select'>
-          {" "}
-          <span>Jin</span>
-        </div>
-        <div className='charInfo__portrait--select'>
-          {" "}
-          <span>Jin</span>
-        </div>
-        <div className='charInfo__portrait--select'>
-          {" "}
-          <span>Jin</span>
-        </div>
-        <div className='charInfo__portrait--select'>
-          {" "}
-          <span>Jin</span>
-        </div>
-        <div className='charInfo__portrait--select'>
-          {" "}
-          <span>Jin</span>
-        </div>
-        <div className='charInfo__portrait--select'>
-          {" "}
-          <span>Jin</span>
-        </div>
-        <div className='charInfo__portrait--select'>
-          {" "}
-          <span>Jin</span>
-        </div>
-        <div className='charInfo__portrait--select'>
-          {" "}
-          <span>Jin</span>
-        </div>
-        <div className='charInfo__portrait--select'>
-          {" "}
-          <span>Jin</span>
-        </div>
-        <div className='charInfo__portrait--select'>
-          {" "}
-          <span>Jin</span>
-        </div>
-
-        <div className='charInfo__portrait--select'>
-          {" "}
-          <span>Jin</span>
-        </div>
-        <div className='charInfo__portrait--select'>
-          {" "}
-          <span>Jin</span>
-        </div>
-        <div className='charInfo__portrait--select'>
-          {" "}
-          <span>Jin</span>
-        </div>
-        <div className='charInfo__portrait--select'>
-          {" "}
-          <span>Jin</span>
-        </div>
-        <div className='charInfo__portrait--select'>
-          {" "}
-          <span>Jin</span>
-        </div>
-        <div className='charInfo__portrait--select'>
-          {" "}
-          <span>Jin</span>
-        </div>
-        <div className='charInfo__portrait--select'>
-          {" "}
-          <span>Jin</span>
-        </div>
-        <div className='charInfo__portrait--select'>
-          {" "}
-          <span>Jin</span>
-        </div>
-        <div className='charInfo__portrait--select'>
-          {" "}
-          <span>Jin</span>
-        </div>
-        <div className='charInfo__portrait--select'>
-          {" "}
-          <span>Jin</span>
-        </div>
+        {characters.map((char, index) => (
+          <Link to={`/fighters/${char.ref}`} key={index}>
+            <div
+              className='charInfo__portrait--select'
+              style={{
+                backgroundImage: `url(${char.img})`,
+              }}>
+              <span>{char.name}</span>
+            </div>
+          </Link>
+        ))}
       </div>
     </div>
   );

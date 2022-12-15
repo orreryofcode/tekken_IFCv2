@@ -1,0 +1,802 @@
+[
+ {
+  "Command": "in rage 1+2",
+  "Hit Level": "m",
+  "Damage": "55(10,7,7,31)",
+  "Startup": "20 pc8~17",
+  "oB": -22,
+  "oH": "KND",
+  "cH": "KND",
+  "Notes": "Rage art"
+ },
+ {
+  "Command": "in rage d\/b+2, 4",
+  "Hit Level": "m, h (TJ)",
+  "Damage": "12,12",
+  "Startup": -14,
+  "oB": "+6~+7",
+  "oH": "KND",
+  "cH": "KND",
+  "Notes": "Rage art, Tail spin"
+ },
+ {
+  "Command": "in rage d\/b+2, 4, D\/F",
+  "Hit Level": "m, h (TJ), (SNK)",
+  "Damage": "12,12",
+  "Startup": -14,
+  "oB": "+19~+20g",
+  "oH": "KND",
+  "cH": "KND",
+  "Notes": "Rage art, Tail spin"
+ },
+ {
+  "Command": 1,
+  "Hit Level": "h",
+  "Damage": 7,
+  "Startup": 10,
+  "oB": 1,
+  "oH": 8,
+  "cH": 8,
+  "Notes": null
+ },
+ {
+  "Command": "1, 2",
+  "Hit Level": "h, h",
+  "Damage": "7,9",
+  "Startup": 10,
+  "oB": -1,
+  "oH": 5,
+  "cH": 5,
+  "Notes": null
+ },
+ {
+  "Command": "1, 2, 2",
+  "Hit Level": "h, h, m",
+  "Damage": "7,9,17",
+  "Startup": 10,
+  "oB": "-11~-10",
+  "oH": "+3~+4",
+  "cH": "CS (12~13)",
+  "Notes": null
+ },
+ {
+  "Command": "1, 2, 3",
+  "Hit Level": "h, h, h",
+  "Damage": "7,9,18",
+  "Startup": 10,
+  "oB": -8,
+  "oH": 3,
+  "cH": 3,
+  "Notes": null
+ },
+ {
+  "Command": "1, 2, 3, D\/F",
+  "Hit Level": "h, h, h (SNK)",
+  "Damage": "7,9,18",
+  "Startup": 10,
+  "oB": -1,
+  "oH": "+10g",
+  "cH": "+10g",
+  "Notes": null
+ },
+ {
+  "Command": "1, 2, 3, D\/F, D\/B (Cancel)",
+  "Hit Level": "h, h, h (SNK)",
+  "Damage": "7,9,18",
+  "Startup": 10,
+  "oB": -2,
+  "oH": 9,
+  "cH": 9,
+  "Notes": null
+ },
+ {
+  "Command": "1, 2, 4",
+  "Hit Level": "h, h, m",
+  "Damage": "7,9,20",
+  "Startup": 10,
+  "oB": "-13~-11",
+  "oH": "KND",
+  "cH": "KND",
+  "Notes": null
+ },
+ {
+  "Command": 2,
+  "Hit Level": "h",
+  "Damage": 10,
+  "Startup": 10,
+  "oB": 0,
+  "oH": 6,
+  "cH": 6,
+  "Notes": null
+ },
+ {
+  "Command": "2, 1",
+  "Hit Level": "h, m",
+  "Damage": "10,7",
+  "Startup": 10,
+  "oB": "-4~-3",
+  "oH": "+2~+3",
+  "cH": "+2~+3",
+  "Notes": null
+ },
+ {
+  "Command": "2, 3",
+  "Hit Level": "h, h",
+  "Damage": "10,18",
+  "Startup": 10,
+  "oB": -8,
+  "oH": 3,
+  "cH": 3,
+  "Notes": null
+ },
+ {
+  "Command": "2, 3, D\/F",
+  "Hit Level": "h, h (SNK)",
+  "Damage": "10,18",
+  "Startup": 10,
+  "oB": -1,
+  "oH": "+10g",
+  "cH": "+10g",
+  "Notes": null
+ },
+ {
+  "Command": "2, 3, D\/F, D\/B (Cancel)",
+  "Hit Level": "h, h (SNK)",
+  "Damage": "10,18",
+  "Startup": 10,
+  "oB": -2,
+  "oH": 9,
+  "cH": 9,
+  "Notes": null
+ },
+ {
+  "Command": "3 or 3+4",
+  "Hit Level": "h",
+  "Damage": 20,
+  "Startup": 14,
+  "oB": -8,
+  "oH": 3,
+  "cH": 3,
+  "Notes": null
+ },
+ {
+  "Command": "3, D\/F",
+  "Hit Level": "h, (SNK)",
+  "Damage": 18,
+  "Startup": "14s",
+  "oB": -1,
+  "oH": "+10g",
+  "cH": "+10g",
+  "Notes": null
+ },
+ {
+  "Command": "3, D\/F, D\/B (Cancel)",
+  "Hit Level": "h, (SNK)",
+  "Damage": 18,
+  "Startup": "14s",
+  "oB": -2,
+  "oH": 9,
+  "cH": 9,
+  "Notes": null
+ },
+ {
+  "Command": 4,
+  "Hit Level": "h",
+  "Damage": 16,
+  "Startup": 11,
+  "oB": -10,
+  "oH": 1,
+  "cH": "KND",
+  "Notes": null
+ },
+ {
+  "Command": "4, 1",
+  "Hit Level": "h, h",
+  "Damage": "16,12",
+  "Startup": 11,
+  "oB": -5,
+  "oH": 4,
+  "cH": 4,
+  "Notes": null
+ },
+ {
+  "Command": "4, 3",
+  "Hit Level": "h, h",
+  "Damage": "16,21",
+  "Startup": 11,
+  "oB": "-1~0",
+  "oH": "KND",
+  "cH": "KND",
+  "Notes": "Tail spin"
+ },
+ {
+  "Command": "4, 4",
+  "Hit Level": "h, m",
+  "Damage": "16,25",
+  "Startup": 11,
+  "oB": "-13~-12",
+  "oH": "KND",
+  "cH": "KND",
+  "Notes": null
+ },
+ {
+  "Command": "f+2",
+  "Hit Level": "h",
+  "Damage": 12,
+  "Startup": 12,
+  "oB": -8,
+  "oH": -2,
+  "cH": -2,
+  "Notes": null
+ },
+ {
+  "Command": "f+2, 3",
+  "Hit Level": "h, h",
+  "Damage": "12,20",
+  "Startup": 12,
+  "oB": -12,
+  "oH": "KND",
+  "cH": "KND",
+  "Notes": null
+ },
+ {
+  "Command": "f+2, 4",
+  "Hit Level": "h, l",
+  "Damage": "12,13",
+  "Startup": 12,
+  "oB": "-13~-12",
+  "oH": "-2~-1",
+  "cH": "KND",
+  "Notes": null
+ },
+ {
+  "Command": "f+2, 4, D\/F",
+  "Hit Level": "h, l, (SNK)",
+  "Damage": "12,13",
+  "Startup": 12,
+  "oB": "-4~-3",
+  "oH": "+7~+8",
+  "cH": "KND",
+  "Notes": null
+ },
+ {
+  "Command": "f+2, 4, D\/F, D\/B (Cancel)",
+  "Hit Level": "h, l, (Special)",
+  "Damage": "12,13",
+  "Startup": "12s",
+  "oB": "-18~-17",
+  "oH": "-7~-8",
+  "cH": "KND",
+  "Notes": null
+ },
+ {
+  "Command": "f+2, 4, 4",
+  "Hit Level": "h, l, h",
+  "Damage": "12,13,21",
+  "Startup": 12,
+  "oB": "-3~-2",
+  "oH": "+14~+15kg",
+  "cH": "Tail spin",
+  "Notes": "Tail spin"
+ },
+ {
+  "Command": "f+3",
+  "Hit Level": "m (TJ)",
+  "Damage": 21,
+  "Startup": "20~21 js13~",
+  "oB": "-5~-4",
+  "oH": "+6~+7",
+  "cH": "KND",
+  "Notes": "Homing"
+ },
+ {
+  "Command": "f+4",
+  "Hit Level": "h",
+  "Damage": 17,
+  "Startup": 15,
+  "oB": "-2~-1",
+  "oH": "KND",
+  "cH": "KND",
+  "Notes": "Tail spin, Homing"
+ },
+ {
+  "Command": "f+3+4",
+  "Hit Level": "mm (TJ)",
+  "Damage": "14,14",
+  "Startup": "22~23, 28 js11~24",
+  "oB": -7,
+  "oH": "+5s",
+  "cH": "+5s",
+  "Notes": null
+ },
+ {
+  "Command": "f+3+4, D\/F",
+  "Hit Level": "mm (TJ), (SNK)",
+  "Damage": "14,14",
+  "Startup": "22~23, 28 js11~24",
+  "oB": 1,
+  "oH": "+13s",
+  "cH": "+13s",
+  "Notes": null
+ },
+ {
+  "Command": "f+3+4, D\/F, D\/B (Cancel)",
+  "Hit Level": "mm (TJ), (SNK)",
+  "Damage": "14,14",
+  "Startup": "22~23, 28 js11~24",
+  "oB": 0,
+  "oH": "+12s",
+  "cH": "+12s",
+  "Notes": null
+ },
+ {
+  "Command": "d\/f+1",
+  "Hit Level": "m",
+  "Damage": 12,
+  "Startup": "13~14",
+  "oB": "-1~-2",
+  "oH": "+5~+6",
+  "cH": "+5~+6",
+  "Notes": null
+ },
+ {
+  "Command": "d\/f+2",
+  "Hit Level": "m",
+  "Damage": 13,
+  "Startup": "15~16",
+  "oB": "-7~-6",
+  "oH": "Launch (JG?)(+4a)",
+  "cH": "Launch (JG?)",
+  "Notes": null
+ },
+ {
+  "Command": "d\/f+3",
+  "Hit Level": "m",
+  "Damage": 20,
+  "Startup": 17,
+  "oB": -9,
+  "oH": "+12kg",
+  "cH": "+12kg",
+  "Notes": "Tail spin, Homing"
+ },
+ {
+  "Command": "d\/f+4",
+  "Hit Level": "m",
+  "Damage": 16,
+  "Startup": 14,
+  "oB": -9,
+  "oH": 2,
+  "cH": 2,
+  "Notes": null
+ },
+ {
+  "Command": "d+2",
+  "Hit Level": "m?",
+  "Damage": 18,
+  "Startup": "18~19",
+  "oB": "-6~-5",
+  "oH": "+8~+9",
+  "cH": "+8~+9",
+  "Notes": null
+ },
+ {
+  "Command": "d+3",
+  "Hit Level": "l (TC)",
+  "Damage": 14,
+  "Startup": "16~17s cs6~",
+  "oB": "-14~-13",
+  "oH": "0~+1",
+  "cH": "0~+1",
+  "Notes": null
+ },
+ {
+  "Command": "d+3, D\/F",
+  "Hit Level": "l (TC), (SNK)",
+  "Damage": 12,
+  "Startup": "16~17 cs6~",
+  "oB": "-10~-9",
+  "oH": "+3~+4",
+  "cH": "+3~+4",
+  "Notes": null
+ },
+ {
+  "Command": "d+3, D\/F, D\/B (Cancel)",
+  "Hit Level": "l (TC), (SNK)",
+  "Damage": 12,
+  "Startup": "16~17 cs6~",
+  "oB": "-14~-13",
+  "oH": "0~+1",
+  "cH": "0~+1",
+  "Notes": null
+ },
+ {
+  "Command": "d+4",
+  "Hit Level": "l",
+  "Damage": 13,
+  "Startup": 19,
+  "oB": -12,
+  "oH": 1,
+  "cH": 1,
+  "Notes": null
+ },
+ {
+  "Command": "d\/b+2",
+  "Hit Level": "m",
+  "Damage": 11,
+  "Startup": 14,
+  "oB": -10,
+  "oH": 1,
+  "cH": 1,
+  "Notes": null
+ },
+ {
+  "Command": "d\/b+2, D\/F",
+  "Hit Level": "m, (SNK)",
+  "Damage": 11,
+  "Startup": 14,
+  "oB": -3,
+  "oH": 8,
+  "cH": 8,
+  "Notes": null
+ },
+ {
+  "Command": "d\/b+2, D\/F, D\/B (Cancel)",
+  "Hit Level": "m, (SNK)",
+  "Damage": 11,
+  "Startup": 14,
+  "oB": -4,
+  "oH": 7,
+  "cH": 7,
+  "Notes": null
+ },
+ {
+  "Command": "d\/b+2, 1",
+  "Hit Level": "m, h",
+  "Damage": "11,24",
+  "Startup": 14,
+  "oB": -11,
+  "oH": "KND",
+  "cH": "KND",
+  "Notes": null
+ },
+ {
+  "Command": "d\/b+3",
+  "Hit Level": "l",
+  "Damage": 12,
+  "Startup": "20~21",
+  "oB": "-17~-16",
+  "oH": "-6~-5",
+  "cH": "-6~-5",
+  "Notes": null
+ },
+ {
+  "Command": "d\/b+3, 4",
+  "Hit Level": "l, h",
+  "Damage": "12,20",
+  "Startup": "cs6~",
+  "oB": -13,
+  "oH": "Launch",
+  "cH": "Launch",
+  "Notes": null
+ },
+ {
+  "Command": "d\/b+4",
+  "Hit Level": "h",
+  "Damage": 23,
+  "Startup": "20 cs6~",
+  "oB": -13,
+  "oH": "Launch",
+  "cH": "Launch",
+  "Notes": null
+ },
+ {
+  "Command": "d\/b+1+2",
+  "Hit Level": "!",
+  "Damage": 40,
+  "Startup": "64~65",
+  "oB": "CS",
+  "oH": "CS",
+  "cH": "CS",
+  "Notes": null
+ },
+ {
+  "Command": "b+1",
+  "Hit Level": "m",
+  "Damage": 20,
+  "Startup": "19~20",
+  "oB": "+2~+3",
+  "oH": "+8~+9s",
+  "cH": "+8~+9s",
+  "Notes": null
+ },
+ {
+  "Command": "b+1,d",
+  "Hit Level": "m",
+  "Damage": 20,
+  "Startup": "19~20",
+  "oB": "+1~+2",
+  "oH": "+8~+9s",
+  "cH": "+8~+9s",
+  "Notes": null
+ },
+ {
+  "Command": "b+2",
+  "Hit Level": "m",
+  "Damage": "17, cH(12, 10, 10)",
+  "Startup": "15~16",
+  "oB": "-9~-8",
+  "oH": "+4~+5",
+  "cH": "KND (throw)",
+  "Notes": null
+ },
+ {
+  "Command": "b+3",
+  "Hit Level": "m",
+  "Damage": 20,
+  "Startup": "18~19",
+  "oB": "0~+1s",
+  "oH": "+3~+4s",
+  "cH": "KND",
+  "Notes": null
+ },
+ {
+  "Command": "b+4",
+  "Hit Level": "m",
+  "Damage": 20,
+  "Startup": 17,
+  "oB": -15,
+  "oH": 4,
+  "cH": "KND",
+  "Notes": null
+ },
+ {
+  "Command": "u\/b+3",
+  "Hit Level": "m (TJ)",
+  "Damage": 16,
+  "Startup": "25~26 js9~",
+  "oB": "-7~-6",
+  "oH": "+4~+5",
+  "cH": "+4~+5",
+  "Notes": null
+ },
+ {
+  "Command": "u+3",
+  "Hit Level": "m (TJ)",
+  "Damage": 21,
+  "Startup": "25~26 js9~",
+  "oB": "-7~-6",
+  "oH": "KND",
+  "cH": "KND",
+  "Notes": null
+ },
+ {
+  "Command": "u\/f+3",
+  "Hit Level": "m (TJ)",
+  "Damage": 22,
+  "Startup": "25~26 js9~",
+  "oB": "-7~-6",
+  "oH": "KND",
+  "cH": "KND",
+  "Notes": null
+ },
+ {
+  "Command": "u\/b or u or u\/f+4",
+  "Hit Level": "m (TJ)",
+  "Damage": 13,
+  "Startup": "15~17 js9~",
+  "oB": "-13~-11",
+  "oH": "Launch (JG?)",
+  "cH": "Launch (JG?)",
+  "Notes": null
+ },
+ {
+  "Command": "f, F+3 or f, f, f+3 (Close)",
+  "Hit Level": "m (TJ)(, (throw))",
+  "Damage": "13(,5,5)",
+  "Startup": "17a(18~) js13~",
+  "oB": -12,
+  "oH": "Throw(Launch)",
+  "cH": "Throw(Launch)",
+  "Notes": null
+ },
+ {
+  "Command": "f, F+3 or f, f, f+3",
+  "Hit Level": "m (TJ)",
+  "Damage": 13,
+  "Startup": "17a(18~) js13~",
+  "oB": -12,
+  "oH": "KND",
+  "cH": "KND",
+  "Notes": null
+ },
+ {
+  "Command": "f, F+4",
+  "Hit Level": "h",
+  "Damage": 25,
+  "Startup": "16(17~) pc6~15",
+  "oB": -11,
+  "oH": "KND",
+  "cH": "KND",
+  "Notes": "Power crush, Wall Bounce"
+ },
+ {
+  "Command": "f, b+2",
+  "Hit Level": "h (throw)",
+  "Damage": "20(,35)",
+  "Startup": "14(14~)",
+  "oB": -4,
+  "oH": "Throw(KND) +13",
+  "cH": "Throw(KND) +13",
+  "Notes": null
+ },
+ {
+  "Command": "f, f, f+2 or WR+2",
+  "Hit Level": "m",
+  "Damage": 20,
+  "Startup": 20,
+  "oB": 6,
+  "oH": "KND",
+  "cH": "KND",
+  "Notes": "Wall bounce"
+ },
+ {
+  "Command": "WS+1",
+  "Hit Level": "m",
+  "Damage": 17,
+  "Startup": 14,
+  "oB": -2,
+  "oH": 4,
+  "cH": 12,
+  "Notes": null
+ },
+ {
+  "Command": "WS+2",
+  "Hit Level": "m",
+  "Damage": 21,
+  "Startup": 16,
+  "oB": -17,
+  "oH": "CS",
+  "cH": "CS",
+  "Notes": null
+ },
+ {
+  "Command": "WS+3",
+  "Hit Level": "m",
+  "Damage": 14,
+  "Startup": 13,
+  "oB": -11,
+  "oH": 0,
+  "cH": 0,
+  "Notes": null
+ },
+ {
+  "Command": "WS+3, 3",
+  "Hit Level": "m, m",
+  "Damage": "14,20",
+  "Startup": 13,
+  "oB": -13,
+  "oH": "KND",
+  "cH": "KND",
+  "Notes": null
+ },
+ {
+  "Command": "WS+4",
+  "Hit Level": "m",
+  "Damage": 16,
+  "Startup": "11~12",
+  "oB": "-6~-5",
+  "oH": "+5~+6",
+  "cH": "+5~+6",
+  "Notes": null
+ },
+ {
+  "Command": "FC+d\/f, d, D\/F+3",
+  "Hit Level": "l (SNK)",
+  "Damage": 21,
+  "Startup": "16~20d (19~) cs1~15 ar7~",
+  "oB": "-23~-19",
+  "oH": "KND",
+  "cH": "KND",
+  "Notes": null
+ },
+ {
+  "Command": "BT 2",
+  "Hit Level": "m",
+  "Damage": 15,
+  "Startup": 14,
+  "oB": -3,
+  "oH": "KND",
+  "cH": "KND",
+  "Notes": null
+ },
+ {
+  "Command": "d\/f, d\/f or From special move (to SNK)",
+  "Hit Level": "(SNK)",
+  "Damage": null,
+  "Startup": 14,
+  "oB": null,
+  "oH": null,
+  "cH": null,
+  "Notes": null
+ },
+ {
+  "Command": "SNK 1",
+  "Hit Level": "h(SNK)",
+  "Damage": 10,
+  "Startup": "12(27~)",
+  "oB": -1,
+  "oH": 5,
+  "cH": 12,
+  "Notes": null
+ },
+ {
+  "Command": "SNK 2",
+  "Hit Level": "m",
+  "Damage": 17,
+  "Startup": "15~16 (30~)",
+  "oB": "-9~-8",
+  "oH": "+7~+8",
+  "cH": "KND",
+  "Notes": null
+ },
+ {
+  "Command": "SNK 3 (Close)",
+  "Hit Level": "m (TJ)(, (throw))",
+  "Damage": "13(,5,5)",
+  "Startup": "20a(35~) js14~",
+  "oB": -12,
+  "oH": "Throw(Launch)",
+  "cH": "Throw(Launch)",
+  "Notes": null
+ },
+ {
+  "Command": "SNK 3",
+  "Hit Level": "m (TJ)",
+  "Damage": 13,
+  "Startup": "20a(35~) js14~",
+  "oB": -12,
+  "oH": "KND",
+  "cH": "KND",
+  "Notes": null
+ },
+ {
+  "Command": "SNK 4",
+  "Hit Level": "l",
+  "Damage": 17,
+  "Startup": 16,
+  "oB": -15,
+  "oH": 0,
+  "cH": "KND",
+  "Notes": null
+ },
+ {
+  "Command": "SNK 4,1",
+  "Hit Level": "l, h",
+  "Damage": "17, 20",
+  "Startup": 16,
+  "oB": -2,
+  "oH": "KND",
+  "cH": "KND",
+  "Notes": "Tail Spin"
+ },
+ {
+  "Command": "SNK 3+4",
+  "Hit Level": "l",
+  "Damage": 23,
+  "Startup": "26(41~) cs6~",
+  "oB": "-19~-14",
+  "oH": "KND",
+  "cH": "Launch",
+  "Notes": null
+ },
+ {
+  "Command": "SNK 1+2",
+  "Hit Level": "m(Throw)",
+  "Damage": 30,
+  "Startup": "27(42~)",
+  "oB": "Throw(KND)",
+  "oH": "Throw(KND)",
+  "cH": "Throw(KND)",
+  "Notes": null
+ }
+]

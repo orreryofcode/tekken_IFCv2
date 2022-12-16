@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Kunimitsu",
+        "namejp": "州光",
+        "age": "Unknown",
+        "bio": "Denouncing her Japanese nationality, Kunimitsu joined the Manji Clan — headed by none other than Yoshimitsu — to learn the art of Manji Ninjutsu and hone her thieving skills, stealing from the rich to give to the poor under the Manji Clan's guidance.",
+        "img": "/src/assets/character_portraits/kunimitsu_rgb.svg",
+        "imgBW": "../character_portraits/kunimitsu.svg",
+        "natl": "../flags/usa.png",
+        "style": "Manji Ninja Arts"
+    }
+   
+]

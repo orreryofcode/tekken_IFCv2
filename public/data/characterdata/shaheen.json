@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Shaheen",
+        "namejp": "شاهين",
+        "age": "Unknown",
+        "bio": "Shaheen works for a private military firm specializing in the provision of security services. During his time in the army, he earned a reputation as an expert in one-on-one combat.",
+        "img": "/src/assets/character_portraits/shaheen_rgb.svg",
+        "imgBW": "../character_portraits/shaheen.svg",
+        "natl": "../flags/usa.png",
+        "style": "Unknown"
+    }
+   
+]

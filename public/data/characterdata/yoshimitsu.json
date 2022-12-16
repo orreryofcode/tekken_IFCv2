@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Yoshimitsu",
+        "namejp": "吉光",
+        "age": "Unknown",
+        "bio": "Yoshimitsu's benevolence hasn't changed since the first Iron Fist Tournament. He enjoys helping people who are in need, as seen with Law and his family (Yoshimitsu's ending) in Tekken. He also became the helper of Dr. Bosconovitch prior to Bryan Fury's betrayal of the Manji Clan in Tekken 5.",
+        "img": "/src/assets/character_portraits/yoshimitsu_rgb.svg",
+        "imgBW": "../character_portraits/yoshimitsu.svg",
+        "natl": "../flags/usa.png",
+        "style": "Advanced Manji Ninjutsu"
+    }
+   
+]

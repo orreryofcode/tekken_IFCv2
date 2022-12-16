@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Katarina Alves",
+        "namejp": "カタリーナ",
+        "age": "Unknown",
+        "bio": "Katarina is an aggressive and sassy-mouthed talker with a cocky and slightly flirtatious personality. She did however greatly respect her adoptive father, who recently disappeared and was transformed into G Corporation's brainwashed, mutated human, Gigas.",
+        "img": "/src/assets/character_portraits/katarina_rgb.svg",
+        "imgBW": "../character_portraits/katarina.svg",
+        "natl": "../flags/usa.png",
+        "style": "Savate"
+    }
+   
+]

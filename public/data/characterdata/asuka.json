@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Asuka Kazama",
+        "namejp": "風間 飛鳥",
+        "age": "17",
+        "bio": "Asuka has a tomboyish personality and is quite brash and arrogant. Although her profile states that she breaks up fights regularly, she seems to have no qualms about fighting and seemingly revels in it. ",
+        "img": "/src/assets/character_portraits/asuka_rgb.svg",
+        "imgBW": "../character_portraits/asuka.svg",
+        "natl": "../flags/usa.png",
+        "style": "Kazama Style Karate"
+    }
+   
+]

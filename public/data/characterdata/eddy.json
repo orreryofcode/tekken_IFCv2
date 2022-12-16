@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Eddy Gordo",
+        "namejp": "エディ",
+        "age": "29",
+        "bio": "Eddy is generally cool-headed and laid back. He also seems to be very loyal, going out of his way to repay the kindness offered to him by the capoeira master.",
+        "img": "/src/assets/character_portraits/eddy_rgb.svg",
+        "imgBW": "../character_portraits/eddy.svg",
+        "natl": "../flags/usa.png",
+        "style": "Capoeira"
+    }
+   
+]

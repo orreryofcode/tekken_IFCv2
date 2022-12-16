@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Claudio Serafino",
+        "namejp": "クラウディオ",
+        "age": "Unknown",
+        "bio": "Claudio is somewhat sarcastic and cocky, as suggested by his intro quotes that see him calling his opponents either amateurs or an easy win, all while flicking his hair. A number of his poses and entrances have dramatic flair to them, suggesting some pride and vanity to him.",
+        "img": "/src/assets/character_portraits/claudio_rgb.svg",
+        "imgBW": "../character_portraits/claudio.svg",
+        "natl": "../flags/usa.png",
+        "style": "Sirius-Style Exorcism Sorcery"
+    }
+   
+]

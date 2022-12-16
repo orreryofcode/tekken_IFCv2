@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Bob Richards",
+        "namejp": "ロバート",
+        "age": "27",
+        "bio": "Bob is portrayed as likable and charismatic with a strong sense of justice, usually using his fighting skills to help those in need. He is also quite cocky, appearing as a smooth talker and a bit of a ladies man. As Bob is fully confident in his abilities with his current figure, he is ironically far more insecure about losing weight than gaining it. ",
+        "img": "/src/assets/character_portraits/bob_rgb.svg",
+        "imgBW": "../character_portraits/bob.svg",
+        "natl": "../flags/usa.png",
+        "style": "Freestyle"
+    }
+   
+]

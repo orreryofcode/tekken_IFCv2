@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Lucky Chloe",
+        "namejp": "クロエ",
+        "age": "Unknown",
+        "bio": "Through her intro and win poses, Lucky Chloe comes across as a playful, enthusiastic, always smiling young girl. She is a fan of Japanese culture and cats as told by the cat-ear headphones and the tail of a cat. In addition, she can be heard at times pronouncing the sound \"Nya\", the Japanese sound of a cat's meow.",
+        "img": "/src/assets/character_portraits/chloe_rgb.svg",
+        "imgBW": "../character_portraits/chloe.svg",
+        "natl": "../flags/usa.png",
+        "style": "Freestyle Dance"
+    }
+   
+]

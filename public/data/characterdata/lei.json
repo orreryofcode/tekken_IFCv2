@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Lei Wulong",
+        "namejp": "レイ",
+        "age": "47",
+        "bio": "A man who lives for his job. Dedicated to the point of obsession, Lei is a law-abiding and gifted cop. He is fair-minded and affable to those around him (unless they break the law). In his Tekken 5 interludes, he is shown treating his friends (such as Wang Jinrei and Steve Fox) with compassion and respect. For his enemies however, he attains a stern and direct approach to their arrest. Although his attempts can sometimes be clumsy, Lei's intentions are always virtuous in nature.",
+        "img": "/src/assets/character_portraits/lei_rgb.svg",
+        "imgBW": "../character_portraits/lei.svg",
+        "natl": "../flags/usa.png",
+        "style": "5 Animals/Drunken Boxing"
+    }
+   
+]

@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Julia Chang",
+        "namejp": "ジュリア",
+        "age": "20",
+        "bio": "Julia's life got off to an inauspicious start; born to unknown parentage, she was abandoned as a baby in the ruins of a Native American settlement. Her fortunes changed, however, when she was found by Michelle Chang, a young woman from a native tribe who adopted her and raised her as her own. Julia grew up with a strong love for her adoptive mother and tribe, and was taught to fight so that she could protect her homeland. Julia also developed a fascination for her tribes heritage, and began studying archaeology to learn more about her forefathers. ",
+        "img": "/src/assets/character_portraits/julia_rgb.svg",
+        "imgBW": "../character_portraits/julia.svg",
+        "natl": "../flags/usa.png",
+        "style": "Xin Yi Liu He Quan and Baji Quan"
+    }
+   
+]

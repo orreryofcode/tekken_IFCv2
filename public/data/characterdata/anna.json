@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Anna Williams",
+        "namejp": "アンナ",
+        "age": "41",
+        "bio": "Anna comes from a family of assassins. Although just as skilled and deadly as Nina, she has a personality that greatly contrasts her sister's. Anna holds a less serious personality, appearing markedly more playful, histrionic, flirtatious, and more sociable than Nina who, in turn, is reclusive and cold-hearted.",
+        "img": "/src/assets/character_portraits/anna_rgb.svg",
+        "imgBW": "../character_portraits/anna.svg",
+        "natl": "../flags/usa.png",
+        "style": "Aikido"
+    }
+   
+]

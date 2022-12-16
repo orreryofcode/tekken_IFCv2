@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Eliza",
+        "namejp": "エリザ",
+        "age": "1,000",
+        "bio": "Eliza is a female vampire who holds the power of immortality. She claims to be 1000 years (and 4 months) old. With the intention of taking a nap, she climbed into a coffin but inadvertently slept for 600 years. Even when she is awake, she is unable to control her sleep patterns and will suddenly fall asleep at any time. ",
+        "img": "/src/assets/character_portraits/eliza_rgb.svg",
+        "imgBW": "../character_portraits/eliza.svg",
+        "natl": "../flags/usa.png",
+        "style": "Unknown"
+    }
+   
+]

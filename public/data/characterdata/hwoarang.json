@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Hwoarang",
+        "namejp": "화랑",
+        "age": "21",
+        "bio": "Prior to the King of Iron Fist Tournament 3, Hwoarang doubled as a Taekwondo student of Baek Doo San and the leader of a street fraud team who picked fights and used dishonest tactics to increase wagers made against them; they would feign weakness and ineptitude to encourage people to up their bets, only for Hwoarang to step in when sufficient money was on the line and soundly defeat their opponents.",
+        "img": "/src/assets/character_portraits/hwoarang_rgb.svg",
+        "imgBW": "../character_portraits/hwoarang.svg",
+        "natl": "../flags/usa.png",
+        "style": "Taekwondo"
+    }
+   
+]

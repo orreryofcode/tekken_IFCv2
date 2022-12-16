@@ -1,0 +1,13 @@
+[
+    {
+        "name": "Steve Fox",
+        "namejp": "スティーブ",
+        "age": "21",
+        "bio": "After reclaiming the Mishima Zaibatsu from his son and witnessing the power of the Devil firsthand in the second King of Iron Fist Tournament, CEO Heihachi Mishima began his own research into the terrifying power of the Devil Gene. In an attempt to to replicate this superhuman strength, the Mishima Zaibatsu started a genetic modification plan with the goal of replicating the effects of the gene on regular humans through the creation of a synthetic Devil Gene. One of the children in the program was known as Subject NT01, or Steve. ",
+        "img": "/src/assets/character_portraits/steve_rgb.svg",
+        "imgBW": "../character_portraits/steve.svg",
+        "natl": "../flags/usa.png",
+        "style": "Boxing"
+    }
+   
+]

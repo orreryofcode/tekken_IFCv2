@@ -6,7 +6,7 @@
         "bio": "Whilst being of aristocratic birth and bearing, Noctis treats his close friends as equals and is often informal with them. He is somewhat reserved and lacks in some social skills due to his isolated childhood upbringing, though is playful and more open with close friends he feels more comfortable around. He can be reckless and egotistical, and worries over others' opinions of him. Ultimately though, he wishes to protect and please his friends and has become more confident in himself.",
         "img": "/src/assets/character_portraits/noctis_rgb.svg",
         "imgBW": "../character_portraits/noctis.svg",
-        "natl": "../flags/usa.png",
+        "natl": "/src/assets/flags/jpn.svg",
         "style": "Weapon Summoning"
     }
    

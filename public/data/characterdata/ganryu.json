@@ -6,7 +6,7 @@
         "bio": "Ganryu was a talented rikishi whose strength and talent in the ring allowed him to become the youngest fighter ever to reach the rank of ōzeki. While having the talent to easily reach the rank of yokozuna, it was Ganryu's lifestyle outside of the ring that was to be his downfall, as his arrogant attitude and illicit gambling habit led to him being dishonorably discharged from the sport.",
         "img": "/src/assets/character_portraits/ganryu_rgb.svg",
         "imgBW": "../character_portraits/ganryu.svg",
-        "natl": "../flags/usa.png",
+        "natl": "/src/assets/flags/jpn.svg",
         "style": "GSumo"
     }
    

@@ -6,7 +6,7 @@
         "bio": "When the Devil Gene completely takes over Jin's mind, he becomes a crazed, aggressive, destructive and brooding devil.",
         "img": "/src/assets/character_portraits/dvj_rgb.svg",
         "imgBW": "../character_portraits/dvj.svg",
-        "natl": "../flags/usa.png",
+        "natl": "/src/assets/flags/jpn.svg",
         "style": "Mishima/Kazama Style Karate"
     }
    

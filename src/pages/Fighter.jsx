@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react";
 import { useParams } from "react-router-dom";
+import Loader from "../components/Loader";
 import CharInfo from "../components/CharInfo";
 
 function Fighter() {
@@ -31,7 +32,7 @@ function Fighter() {
         <CharInfo frameData={frameData} charData={charData} />
       ) : (
         <>
-          <h1>Hello</h1>
+          <Loader />
         </>
       )}
     </div>

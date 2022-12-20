@@ -5,6 +5,7 @@ function Navbar() {
   return (
     <div className='navbar__container'>
       <nav className='navbar__nav'>
+        <img src={logo} alt='' />
         <ul className='navbar__list'>
           <li className='navbar__item'>
             <Link to='/' className='navbar__link'>
@@ -17,15 +18,6 @@ function Navbar() {
             </Link>
           </li>
 
-          <li className='navbar__item'>
-            <img src={logo} alt='' />
-          </li>
-
-          <li className='navbar__item'>
-            <Link to='/fighters' className='navbar__link'>
-              Fighters
-            </Link>
-          </li>
           <li className='navbar__item'>
             <Link to='/support' className='navbar__link'>
               Support

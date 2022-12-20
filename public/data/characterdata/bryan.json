@@ -6,7 +6,7 @@
         "bio": "Bryan was a soldier in the US Army, who transferred to the Interpol Division of the Hong Kong Police Force. He was a skilled detective, though always followed by dark rumors. Whilst investigating the drug trade, fellow Hong Kong Interpol detective Lei Wulong discovered that Bryan had connections with drug dealers. Bryan was killed in a shoot-out in Hong Kong, possibly by Lei.",
         "img": "/src/assets/character_portraits/bryan_rgb.svg",
         "imgBW": "../character_portraits/bryan.svg",
-        "natl": "../flags/usa.png",
+        "natl": "/src/assets/flags/usa.svg",
         "style": "Kickboxing"
     }
    

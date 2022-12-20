@@ -6,7 +6,7 @@
         "bio": "Paul Phoenix is a tough American fighter. Something of a drifter, Paul has no real career, instead making money by streetfighting and taking occasional work as a bouncer while he pursues his real passion - to prove himself to be the toughest fighter in the universe. Paul trains with Marshall Law, who would go on to become his good friend, and Lee Chaolan, and remains undefeated in battle, with the exception of a young fighter named Kazuya, who held him to a draw.",
         "img": "/src/assets/character_portraits/paul_rgb.svg",
         "imgBW": "../character_portraits/paul.svg",
-        "natl": "../flags/usa.png",
+        "natl": "/src/assets/flags/usa.svg",
         "style": "Judo"
     }
    

@@ -6,7 +6,7 @@
         "bio": "Lee's parents died when he was a young child, and he lived thereafter on the streets as an orphan. Heihachi Mishima found Lee in the streets of a Chinese city whilst he was on a business trip. Impressed by Lee's fighting potential, Heihachi adopted him as his son and brought him back with him to Japan. However, his true intention was to give his son, Kazuya Mishima, a rival and to annoy him with the threat of another son.",
         "img": "/src/assets/character_portraits/lee_rgb.svg",
         "imgBW": "../character_portraits/lee.svg",
-        "natl": "../flags/usa.png",
+        "natl": "/src/assets/flags/jpn.svg",
         "style": "Martial Arts"
     }
    

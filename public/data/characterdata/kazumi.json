@@ -6,7 +6,7 @@
         "bio": "Kazumi Mishima, the wife of Heihachi Mishima, is well versed in Hachijō Karate. She was childhood friends with her husband Heihachi and eventually, they fell in love. Through their love, they birthed a healthy young boy. Fast forward a few years later, Heihachi would become the head of a huge organization called the Mishima Zaibatsu, with plans to conquer the world. Kazumi loved Heihachi unconditionally, but at the same time, he was beginning to feel dangerous. In this state, Heihachi threw the world into war and Kazumi took it upon herself to stop him.",
         "img": "/src/assets/character_portraits/kazumi_rgb.svg",
         "imgBW": "../character_portraits/kazumi.svg",
-        "natl": "../flags/usa.png",
+        "natl": "/src/assets/flags/jpn.svg",
         "style": "Hachijo/Mishima Style Karate"
     }
    

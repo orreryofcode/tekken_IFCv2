@@ -118,7 +118,7 @@ function CharacterSelect() {
             <div
               className='charInfo__portrait--select'
               style={{
-                backgroundImage: `url(${char.img})`,
+                backgroundImage: `linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.8) ), url(${char.img})`,
               }}>
               <span>{char.name}</span>
             </div>

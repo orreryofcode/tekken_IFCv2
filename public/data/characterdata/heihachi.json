@@ -6,7 +6,7 @@
         "bio": "Heihachi is clever, shrewd businessman, who is charismatic and excellent at manipulating others. He has a sense of humor that is often sadistic, and others sometimes find it hard to tell whether Heihachi is joking or being deadly serious.",
         "img": "/src/assets/character_portraits/heihachi_rgb.svg",
         "imgBW": "../character_portraits/heihachi.svg",
-        "natl": "../flags/usa.png",
+        "natl": "/src/assets/flags/jpn.svg",
         "style": "Mishima Style Karate"
     }
    

@@ -8,7 +8,8 @@
         "imgBW": "../character_portraits/dvj.svg",
         "natl": "/src/assets/flags/unknown.svg",
         "natlalt": "Unknown",
-        "style": "Mishima/Kazama Style Karate"
+        "style": "Mishima/Kazama Style Karate",
+        "combos": "https://www.youtube.com/embed/hoOjm-fXxr4"
     }
    
 ]

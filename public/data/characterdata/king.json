@@ -8,7 +8,8 @@
         "imgBW": "../character_portraits/king.svg",
         "natl": "/src/assets/flags/mx.svg",
         "natlalt": "Mexico",
-        "style": "Lucha Libre"
+        "style": "Lucha Libre",
+        "combos": "https://www.youtube.com/embed/8Ssl0nluge4"
     }
    
 ]

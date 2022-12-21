@@ -8,7 +8,8 @@
         "imgBW": "../character_portraits/eddy.svg",
         "natl": "/src/assets/flags/bra.svg",
         "natlalt": "Brazil",
-        "style": "Capoeira"
+        "style": "Capoeira",
+        "combos": "https://www.youtube.com/embed/TjTFUrZX0S8" 
     }
    
 ]

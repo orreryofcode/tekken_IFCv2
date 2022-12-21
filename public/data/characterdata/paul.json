@@ -8,7 +8,8 @@
         "imgBW": "../character_portraits/paul.svg",
         "natl": "/src/assets/flags/usa.svg",
         "natlalt": "USA",
-        "style": "Judo"
+        "style": "Judo",
+        "combos": "https://www.youtube.com/embed/z9asbD9S4pk"
     }
    
 ]

@@ -8,7 +8,8 @@
         "imgBW": "../character_portraits/noctis.svg",
         "natl": "/src/assets/flags/jpn.svg",
         "natlalt": "Japan",
-        "style": "Weapon Summoning"
+        "style": "Weapon Summoning",
+        "combos": "https://www.youtube.com/embed/dNACrBDc9Lk"
     }
    
 ]

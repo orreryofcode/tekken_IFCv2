@@ -8,7 +8,9 @@
         "imgBW": "../character_portraits/julia.svg",
         "natl": "/src/assets/flags/usa.svg",
         "natlalt": "USA",
-        "style": "Xin Yi Liu He Quan and Baji Quan"
+        "style": "Xin Yi Liu He Quan and Baji Quan",
+        "combos": "https://www.youtube.com/embed/k8t63kqF4Kk"
+
     }
    
 ]

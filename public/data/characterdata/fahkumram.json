@@ -8,7 +8,8 @@
         "imgBW": "../character_portraits/fahkumram.svg",
         "natl": "/src/assets/flags/thai.svg",
         "natlalt": "Thailand",
-        "style": "Muay Thai"
+        "style": "Muay Thai",
+        "combos": "https://www.youtube.com/embed/qImQXs2m7z4"
     }
    
 ]

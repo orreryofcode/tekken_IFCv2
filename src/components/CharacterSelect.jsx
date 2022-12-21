@@ -109,10 +109,10 @@ function CharacterSelect() {
   return (
     <div className='characterSelect__container'>
       <div className='characterSelect__heading'>
-        <h2>Select Your Character</h2>
+        <h2>Select a character to view their data</h2>
       </div>
 
-      <div className='characterSelect__list'>
+      <section className='characterSelect__list'>
         {characters.map((char, index) => (
           <Link to={`/fighters/${char.ref}`} key={index}>
             <div
@@ -124,7 +124,7 @@ function CharacterSelect() {
             </div>
           </Link>
         ))}
-      </div>
+      </section>
     </div>
   );
 }

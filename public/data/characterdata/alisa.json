@@ -8,7 +8,8 @@
         "imgBW": "../character_portraits/alisa.svg",
         "natl": "/src/assets/flags/rus.svg",
         "natlalt": "Russia",
-        "style": "Unique"
+        "style": "Unique",
+        "combos": "https://www.youtube.com/embed/ulP6KPvCoZI" 
     }
    
 ]

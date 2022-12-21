@@ -8,7 +8,8 @@
         "imgBW": "../character_portraits/lars.svg",
         "natl": "/src/assets/flags/swe.svg",
         "natlalt": "Sweden",
-        "style": "Tekken Forces Martial Arts"
+        "style": "Tekken Forces Martial Arts",
+        "combos": "https://www.youtube.com/embed/5kwVix-wIY0"
     }
    
 ]

@@ -8,7 +8,8 @@
         "imgBW": "../character_portraits/steve.svg",
         "natl": "/src/assets/flags/uk.svg",
         "natlalt": "UK",
-        "style": "Boxing"
+        "style": "Boxing",
+        "combos": "https://www.youtube.com/embed/9mzv0cVNcgA"
     }
    
 ]

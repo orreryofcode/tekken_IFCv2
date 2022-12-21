@@ -8,7 +8,8 @@
         "imgBW": "../character_portraits/jack.svg",
         "natl": "/src/assets/flags/rus.svg",
         "natlalt": "Russia",
-        "style": "Brute Force"
+        "style": "Brute Force",
+        "combos": "https://www.youtube.com/embed/N-8X8yHxb48"
     }
    
 ]

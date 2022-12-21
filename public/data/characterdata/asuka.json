@@ -8,7 +8,8 @@
         "imgBW": "../character_portraits/asuka.svg",
         "natl": "/src/assets/flags/jpn.svg",
         "natlalt": "Japan",
-        "style": "Kazama Style Karate"
+        "style": "Kazama Style Karate",
+        "combos": "https://www.youtube.com/embed/RyWanj6xjc8"
     }
    
 ]

@@ -8,7 +8,8 @@
         "imgBW": "../character_portraits/geese.svg",
         "natl": "/src/assets/flags/usa.svg",
         "natlalt": "USA",
-        "style": "Kobujutsu"
+        "style": "Kobujutsu",
+        "combos": "https://www.youtube.com/embed/g_DlpoMDh14"
     }
    
 ]

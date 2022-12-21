@@ -1,17 +1,16 @@
-function Combos() {
+function Combos({ videoData }) {
   return (
     <section className='combos__container'>
       <div className='combos__container--inner'>
-        <h4>This section is currently under construction!</h4>
-        <p>
-          In the meantime, if you would like to see combos for a specific
-          character, we suggest checking out RyzingSol's playlist on Youtube
-          which can be found &nbsp;
-          <a href='https://www.youtube.com/playlist?list=PLzLo6oxD17vRRTKTK3GY3irC87eSwOcj1'>
-            here
-          </a>
-          !
-        </p>
+        <iframe
+          className='combos__video'
+          width='100%'
+          height='547'
+          src={videoData[0].combos}
+          title='YouTube video player'
+          frameBorder='0'
+          allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture'
+          allowFullScreen></iframe>
       </div>
     </section>
   );

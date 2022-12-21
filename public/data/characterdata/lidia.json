@@ -8,6 +8,7 @@
         "imgBW": "../character_portraits/lidia.svg",
         "natl": "/src/assets/flags/pol.svg",
         "natlalt": "Poland",
-        "style": "Karate"
+        "style": "Karate",
+        "combos": "https://www.youtube.com/embed/utdK1dPjGMU"
     }   
 ]

@@ -8,7 +8,8 @@
         "imgBW": "../character_portraits/chloe.svg",
         "natl": "/src/assets/flags/unknown.svg",
         "natlalt": "Unknown",
-        "style": "Freestyle Dance"
+        "style": "Freestyle Dance",
+        "combos": "https://www.youtube.com/embed/lDPnAlNhD84"
     }
    
 ]

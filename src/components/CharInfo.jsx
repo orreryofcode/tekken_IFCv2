@@ -26,7 +26,7 @@ function CharInfo({ frameData, charData }) {
 
         <div className='charInfo__details'>
           <div className='charInfo__name'>
-            <h1>{charData[0].name}</h1>
+            <h2>{charData[0].name}</h2>
           </div>
 
           <div className='charInfo__btns'>
@@ -48,12 +48,12 @@ function CharInfo({ frameData, charData }) {
               value='combos'>
               Combos
             </button>
-            <button
+            {/* <button
               className='charInfo__btns--btn'
               onClick={renderData}
               value='players'>
               Notable Players
-            </button>
+            </button> */}
           </div>
           <CharBio charDetails={charData} />
         </div>
@@ -65,7 +65,7 @@ function CharInfo({ frameData, charData }) {
         </>
       )}
       {dataToRender === "frameData" && <FrameDataTable frameData={frameData} />}
-      {dataToRender === "combos" && <Combos />}
+      {dataToRender === "combos" && <Combos videoData={charData} />}
     </>
   );
 }

@@ -8,7 +8,8 @@
         "imgBW": "../character_portraits/marduk.svg",
         "natl": "/src/assets/flags/aus.svg",
         "natlalt": "Australia",
-        "style": "Vale Tudo"
+        "style": "Vale Tudo",
+        "combos": "https://www.youtube.com/embed/CeFJv7CY82s"
     }
    
 ]

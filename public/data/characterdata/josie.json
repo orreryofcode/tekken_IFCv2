@@ -8,7 +8,8 @@
         "imgBW": "../character_portraits/josie.svg",
         "natl": "/src/assets/flags/phi.svg",
         "natlalt": "Phillipines",
-        "style": "Kickboxing/Muay Thai"
+        "style": "Kickboxing/Muay Thai",
+        "combos": "https://www.youtube.com/embed/6G_CoB5N79Y"
     }
    
 ]

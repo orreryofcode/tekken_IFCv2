@@ -8,7 +8,8 @@
         "imgBW": "../character_portraits/lee.svg",
         "natl": "/src/assets/flags/jpn.svg",
         "natlalt": "Japan",
-        "style": "Martial Arts"
+        "style": "Martial Arts",
+        "combos": "https://www.youtube.com/embed/rrM0WB7-ekBg"
     }
    
 ]

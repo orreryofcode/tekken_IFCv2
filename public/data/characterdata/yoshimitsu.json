@@ -8,7 +8,8 @@
         "imgBW": "../character_portraits/yoshimitsu.svg",
         "natl": "/src/assets/flags/jpn.svg",
         "natlalt": "Japan",
-        "style": "Advanced Manji Ninjutsu"
+        "style": "Advanced Manji Ninjutsu",
+        "combos": "https://www.youtube.com/embed/f0S1g9UE6P8"
     }
    
 ]

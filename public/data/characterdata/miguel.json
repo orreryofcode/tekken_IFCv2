@@ -8,7 +8,8 @@
         "imgBW": "../character_portraits/miguel.svg",
         "natl": "/src/assets/flags/esp.svg",
         "natlalt": "Spain",
-        "style": "Brawling"
+        "style": "Brawling",
+        "combos": "https://www.youtube.com/embed/FJ2v3j7DhVM"
     }
    
 ]

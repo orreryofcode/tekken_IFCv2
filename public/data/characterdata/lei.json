@@ -8,7 +8,8 @@
         "imgBW": "../character_portraits/lei.svg",
         "natl": "/src/assets/flags/cn.svg",
         "natlalt": "China",
-        "style": "5 Animals/Drunken Boxing"
+        "style": "5 Animals/Drunken Boxing",
+        "combos": "https://www.youtube.com/embed/zskWIaB59TY"
     }
    
 ]

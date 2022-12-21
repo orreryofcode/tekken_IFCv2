@@ -8,7 +8,8 @@
         "imgBW": "../character_portraits/ak.svg",
         "natl": "/src/assets/flags/unknown.svg",
         "natlalt": "Unknown",
-        "style": "Japanese Pro Wrestling"
+        "style": "Japanese Pro Wrestling",
+        "combos": "https://www.youtube.com/embed/ZXHo4eL_VyI"
     }
    
 ]

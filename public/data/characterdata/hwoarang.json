@@ -8,7 +8,8 @@
         "imgBW": "../character_portraits/hwoarang.svg",
         "natl": "/src/assets/flags/kor.svg",
         "natlalt": "S. Korea",
-        "style": "Taekwondo"
+        "style": "Taekwondo",
+        "combos": "https://www.youtube.com/embed/jxaZb3dcrqE"
     }
    
 ]

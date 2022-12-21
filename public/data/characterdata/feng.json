@@ -8,7 +8,8 @@
         "imgBW": "../character_portraits/feng.svg",
         "natl": "/src/assets/flags/cn.svg",
         "natlalt": "China",
-        "style": "God Fist Style Chinese Kenpo"
+        "style": "God Fist Style Chinese Kenpo",
+        "combos": "https://www.youtube.com/embed/9MdVW9C-3_o"
     }
    
 ]

@@ -15,6 +15,14 @@
   align-items: center;
 }
 
+.navbar__heading {
+  display: inline-block;
+  color: white;
+  margin-left: 2rem;
+  font-size: 3.5rem;
+  width: 100%;
+}
+
 .navbar__list {
   display: flex;
   align-items: center;
@@ -69,7 +77,7 @@
 
 .charInfo__portrait--select {
   position: relative;
-  background-color: #5c1c23;
+  background-color: #4f0403;
 
   background-repeat: no-repeat;
   background-size: cover;
@@ -94,6 +102,7 @@
   font-weight: 600;
   left: 0.7rem;
   bottom: 0.5rem;
+  font-style: italic;
 }
 
 .charInfo__wrapper {
@@ -111,7 +120,7 @@
 
 .charInfo__portrait {
   position: relative;
-  background-color: #5c1c23;
+  background-color: #4f0403;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -130,43 +139,42 @@
 }
 
 .charInfo__name {
-  padding: 3.5rem 0rem;
+  padding: 3rem 0rem;
   min-width: 100%;
 }
 
-.charInfo__name h1 {
+.charInfo__name h2 {
   font-size: 15rem;
+  letter-spacing: -0.7rem;
   text-align: right;
   font-family: "Roboto", Arial, Helvetica, sans-serif;
   font-style: italic;
-
   white-space: nowrap;
 }
 
 .charInfo__name--jpn {
   position: absolute;
   text-align: center;
-  top: 25%;
+  top: 23%;
   left: 50%;
   transform: translate(-50%, -50%);
   z-index: -1;
 }
 
 .charInfo__name--jpn span {
-  font-size: 35rem;
+  font-size: 42rem;
+  letter-spacing: -2rem;
   font-weight: 700;
-
   white-space: nowrap;
-
+  opacity: 0.85;
   background-image: linear-gradient(to bottom, #760101, #2e0000, transparent);
   -webkit-background-clip: text;
   background-clip: text;
-
   -webkit-text-fill-color: transparent;
 }
 
 .charInfo__btns {
-  padding: 0.8rem 2.1rem;
+  padding: 0rem 0rem;
   padding-top: 5rem;
   display: flex;
   justify-content: flex-end;
@@ -174,7 +182,7 @@
 
 .charInfo__btns--btn {
   border: none;
-  padding: 0.8rem 1.8rem;
+  padding: 0.5rem 2rem;
   border-radius: 6px;
   background-color: #5c1c23;
   color: white;
@@ -205,12 +213,13 @@
 }
 
 .charInfo__bio {
-  padding: 0.5rem 2rem;
+  padding: 0.5rem 0rem;
 }
 
 .charInfo__bio h4 {
   font-size: 2rem;
   font-weight: 600;
+  font-style: italic;
 }
 
 .charInfo__bio-details {
@@ -243,6 +252,7 @@
   font-size: 1.5rem;
   font-weight: bold;
   margin-right: 1rem;
+  font-style: italic;
 }
 
 /* Strengths and Weaknesses */
@@ -273,6 +283,7 @@
 .sandw__strengths h4,
 .sandw__weaknesses h4 {
   font-size: 1.5rem;
+  font-weight: 900;
 }
 
 .sandw__strengths ul,
@@ -298,8 +309,7 @@
 
 .topmoves__container--inner,
 .keymoves__container--inner,
-.framedata__container--inner,
-.combos__container--inner {
+.framedata__container--inner {
   background-color: #212121;
   padding: 2rem 4rem;
   border-radius: 6px;
@@ -309,7 +319,7 @@
 }
 
 .combos__container--inner {
-  padding-bottom: 40rem;
+  padding: 4rem;
 }
 
 .topmoves__heading {
@@ -334,6 +344,7 @@
 
 .combos__container p {
   margin-left: 0rem;
+  padding-bottom: 3rem;
 }
 
 .keymoves__heading p {
@@ -365,9 +376,9 @@
 .topmoves__table th,
 .keymoves__table th,
 .framedata__table th {
-  background-color: #111111;
+  background-color: #080808;
   outline: 1px solid #212121;
-  font-size: 1.4rem;
+  font-size: 1.5rem;
   padding: 0.5rem 0rem;
   position: sticky;
   top: 0;
@@ -377,7 +388,8 @@
 .framedata__table table tr td {
   border: 1px solid #212121;
   text-align: center;
-  font-size: 1.2rem;
+  font-size: 1.5rem;
+  padding: 0.5rem;
 }
 
 .framedata__table table tr:nth-child(odd) {
@@ -403,7 +415,7 @@
 .spinner__content::before {
   animation: 1.5s linear infinite spinner;
   animation-play-state: inherit;
-  border: solid 5px #cfd0d1;
+  border: solid 10px #ffffff;
   border-bottom-color: #5c1c23;
   border-radius: 50%;
   content: "";
@@ -416,6 +428,12 @@
   will-change: transform;
 }
 
+.spinner__content span {
+  font-weight: 900;
+  font-style: italic;
+  font-size: 5rem;
+}
+
 @keyframes fade-in {
   0% {
     opacity: 0;
@@ -423,4 +441,17 @@
   100% {
     opacity: 1;
   }
+}
+
+.combos__video {
+  border-radius: 6px;
+  animation: fade-in 0.4s;
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.6);
+}
+
+.footer {
+  padding-top: 5rem;
+  color: white;
+  font-size: 1.5rem;
+  text-align: center;
 }

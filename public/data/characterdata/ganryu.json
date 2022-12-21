@@ -8,7 +8,8 @@
         "imgBW": "../character_portraits/ganryu.svg",
         "natl": "/src/assets/flags/jpn.svg",
         "natlalt": "Japan",
-        "style": "Sumo"
+        "style": "Sumo",
+        "combos": "https://www.youtube.com/embed/JiXIFqY6t2c" 
     }
    
 ]

@@ -4,8 +4,8 @@ import Navbar from "./components/Navbar";
 import Home from "./pages/Home";
 import About from "./pages/About";
 import Fighter from "./pages/Fighter";
-
 import Support from "./pages/Support";
+import Footer from "./components/Footer";
 
 function App() {
   return (
@@ -22,6 +22,7 @@ function App() {
 
           <Route path='/support' element={<Support />} />
         </Routes>
+        <Footer />
       </div>
     </Router>
   );

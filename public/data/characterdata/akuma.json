@@ -4,9 +4,9 @@
         "namejp": "豪鬼",
         "age": "Unknown",
         "bio": "Akuma and his older brother, Gouken, learned under their master Goutetsu. Goutetsu soon began to teach them the more brutal secrets behind their martial art and revealed the central aspect responsible for their style to be known as a killing art. ",
-        "img": "/src/assets/character_portraits/akuma_rgb.svg",
+        "img": "../../assets/character_portraits/akuma_rgb.svg",
         "imgBW": "../character_portraits/akuma.svg",
-        "natl": "/src/assets/flags/jpn.svg",
+        "natl": "../../assets/flags/jpn.svg",
         "natlalt": "Japan",
         "style": "Satsui No Hado/Ansatsuken",
         "combos": "https://www.youtube.com/embed/00HZEf2GYd4"

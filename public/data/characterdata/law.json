@@ -4,9 +4,9 @@
         "namejp": "ロウ",
         "age": "48",
         "bio": "Marshall Law is a very talented martial artist. He's mostly known for owning a dojo and then owning a restaurant (although he had to resort to being dishwasher in Japan since he was penniless after being defeated in the 4th tournament). Marshall is best friends with Paul Phoenix, despite having their fair share of arguments.",
-        "img": "/src/assets/character_portraits/law_rgb.svg",
+        "img": "../../assets/character_portraits/law_rgb.svg",
         "imgBW": "../character_portraits/law.svg",
-        "natl": "/src/assets/flags/usa.svg",
+        "natl": "../../assets/flags/usa.svg",
         "natlalt": "USA",
         "style": "Jeet Kune Do",
         "combos": "https://www.youtube.com/embed/a0Nof2bMwak"

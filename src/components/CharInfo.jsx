@@ -21,7 +21,7 @@ function CharInfo({ frameData, charData }) {
       </div>
       <div className='charInfo__container'>
         <div>
-          <CharPortrait charImg={charData[0].img} />
+          <CharPortrait charImg={charData} />
         </div>
 
         <div className='charInfo__details'>

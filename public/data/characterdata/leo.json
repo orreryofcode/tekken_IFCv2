@@ -4,9 +4,9 @@
         "namejp": "レオ",
         "age": "19",
         "bio": "Leo is described as \"cute\" and \"charming\" on the surface, but dangerous on the inside. Despite their father's disappearance as a child, Leo's life is described as pleasant and peaceful. However, the assassination of their mother Emma Kliesen has shown Leo to be headstrong and dedicated to fighting for justice, especially when the case was dismissed by the police.",
-        "img": "/src/assets/character_portraits/leo_rgb.svg",
+        "img": "/../../assets/character_portraits/leo_rgb.svg",
         "imgBW": "../character_portraits/leo.svg",
-        "natl": "/src/assets/flags/ger.svg",
+        "natl": "../../assets/flags/ger.svg",
         "natlalt": "Germany",
         "style": "Baji Quan",
         "combos": "https://www.youtube.com/embed/n1SRmuVKkLU"

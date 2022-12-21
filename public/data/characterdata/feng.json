@@ -4,9 +4,9 @@
         "namejp": "フェン",
         "age": "26",
         "bio": "A ruthless and merciless martial artist. Feng has a lust for power and fighting, which can be seen as both a strength and weakness, as while he was skilled enough to be the best in his class, his greatest flaw is that his addiction and impulsive urge to start fighting eventually got the better of him, causing him to murder his master after he scolded him for fighting outside the dojo.",
-        "img": "/src/assets/character_portraits/feng_rgb.svg",
+        "img": "../../assets/character_portraits/feng_rgb.svg",
         "imgBW": "../character_portraits/feng.svg",
-        "natl": "/src/assets/flags/cn.svg",
+        "natl": "../../assets/flags/cn.svg",
         "natlalt": "China",
         "style": "God Fist Style Chinese Kenpo",
         "combos": "https://www.youtube.com/embed/9MdVW9C-3_o"

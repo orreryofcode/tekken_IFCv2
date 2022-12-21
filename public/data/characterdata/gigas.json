@@ -4,9 +4,9 @@
         "namejp": "ギガース",
         "age": "Unknown",
         "bio": "Gigas was revealed to be the adoptive father of Katarina Alves. He adopted her from the orphanage she was sent to after the deaths of her parents. He is also the one who taught Katarina in the art of Savate before his sudden disappearance. He disappeared after he was captured by G Corporation. He was experimented on and mutated into a red hulking beast through the use of other fighter's DNA.",
-        "img": "/src/assets/character_portraits/gigas_rgb.svg",
+        "img": "../../assets/character_portraits/gigas_rgb.svg",
         "imgBW": "../character_portraits/gigas.svg",
-        "natl": "/src/assets/flags/unknown.svg",
+        "natl": "../../assets/flags/unknown.svg",
         "natlalt": "Unknown",
         "style": "Destructive Impulse",
         "combos": "https://www.youtube.com/embed/DCBm3Ss24sQ"

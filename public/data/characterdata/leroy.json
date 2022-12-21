@@ -4,9 +4,9 @@
         "namejp": "リロイ",
         "age": "Unknown",
         "bio": "Nearly a half century ago, a young boy named Leroy Smith lost his entire family to the violence in New York. Many years passed... Amidst Leroy's quest, a gang lord familiar with the old days informed Leroy that it was the Mishima Zaibatsu that was behind the war that tore the city apart a half a century ago. Surprised that the mega conglomerate currently waging a war to split the world in two was also responsible for the atrocities committed so long ago, Leroy nonetheless resolved to eradicate the corporation if it truly was behind all of the evils he had seen. To carry out his quest, he decided to enter the King of Iron Fist Tournament, which was organized by the Mishima Zaibatsu itself.",
-        "img": "/src/assets/character_portraits/leroy_rgb.svg",
+        "img": "../../assets/character_portraits/leroy_rgb.svg",
         "imgBW": "../character_portraits/leroy.svg",
-        "natl": "/src/assets/flags/usa.svg",
+        "natl": "../../assets/flags/usa.svg",
         "natlalt": "USA",
         "style": "Wing Chun",
         "combos": "https://www.youtube.com/embed/QPxFEndJdPE"

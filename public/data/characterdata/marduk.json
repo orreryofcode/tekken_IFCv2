@@ -4,9 +4,9 @@
         "namejp": "マードック",
         "age": "28",
         "bio": "Craig Marduk was an undefeated Vale Tudo champion. However, one day he was caught up in a scandal and ejected by the Vale Tudo fighting committee. Consumed with bitterness and anger at his circumstances and the world around him, Marduk ended up starting a bar fight in Arizona. A mediator stepped in to try and deescalate the fight, but Marduk ended up killing him. The man Marduk killed was Armor King, a professional wrestler who wore a black jaguar mask in the ring. The case was taken to court, where the killing was ruled as second-degree manslaughter, meaning that Marduk was found not guilty of intentionally causing death. He was, however, sentenced to ten years in prison.",
-        "img": "/src/assets/character_portraits/marduk_rgb.svg",
+        "img": "../../assets/character_portraits/marduk_rgb.svg",
         "imgBW": "../character_portraits/marduk.svg",
-        "natl": "/src/assets/flags/aus.svg",
+        "natl": "../../assets/flags/aus.svg",
         "natlalt": "Australia",
         "style": "Vale Tudo",
         "combos": "https://www.youtube.com/embed/CeFJv7CY82s"

@@ -3,7 +3,7 @@ function CharPortrait({ charImg }) {
     <div
       className='charInfo__portrait'
       style={{
-        backgroundImage: `url(${charImg})`,
+        backgroundImage: `url(${charImg[0].img})`,
       }}></div>
   );
 }

@@ -4,9 +4,9 @@
         "namejp": "風間仁",
         "age": 21,
         "bio": "Jin Kazama is the son of Jun Kazama and Kazuya Mishima. During Jun's pregnancy, part of Kazuya's Devil, (which fled Kazuya when he was thrown into a volcano by his father) attempted to possess Jin, who inherited his father's Devil Gene. Jun managed to fight Devil off and hold it at bay throughout her pregnancy and Jin's childhood. Jun raised Jin in a remote location in the mountains of Yakushima, and trained him in the Kazama family's self-defense fighting style.",
-        "img": "/src/assets/character_portraits/jinkazama_rgb.svg",
+        "img": "../../assets/character_portraits/jinkazama_rgb.svg",
         "imgBW": "../character_portraits/jinkazama.svg",
-        "natl": "/src/assets/flags/jpn.svg",
+        "natl": "../../assets/flags/jpn.svg",
         "natlalt": "Japan",
         "style": "Mishima/Kazama style Karate",
         "combos": "https://www.youtube.com/embed/8Tf8Daakia4"

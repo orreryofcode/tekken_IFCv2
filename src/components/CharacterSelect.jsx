@@ -4,7 +4,7 @@ import {
   bryan,
   king,
   nina,
-  ak,
+  armorking,
   akuma,
   alisa,
   anna,
@@ -13,7 +13,7 @@ import {
   chloe,
   claudio,
   dragunov,
-  dvj,
+  deviljin,
   eddy,
   eliza,
   fahkumram,
@@ -50,14 +50,14 @@ import {
   xiaoyu,
   yoshimitsu,
   zafina,
-} from "../assets/character_portraits/images";
+} from "../images";
 
 function CharacterSelect() {
   const characters = [
     { name: "Akuma", ref: "akuma", img: akuma },
     { name: "Alisa", ref: "Alisa", img: alisa },
     { name: "Anna", ref: "anna", img: anna },
-    { name: "Armor King", ref: "ak", img: ak },
+    { name: "Armor King", ref: "armorking", img: armorking },
     { name: "Asuka", ref: "asuka", img: asuka },
     { name: "Bob", ref: "bob", img: bob },
     { name: "Bryan", ref: "bryan", img: bryan },
@@ -66,7 +66,7 @@ function CharacterSelect() {
     { name: "Eliza", ref: "eliza", img: eliza },
     { name: "Fahkumram", ref: "fahkumram", img: fahkumram },
     { name: "Eddy", ref: "eddy", img: eddy },
-    { name: "Devil Jin", ref: "dvj", img: dvj },
+    { name: "Devil Jin", ref: "deviljin", img: deviljin },
     { name: "Feng", ref: "feng", img: feng },
     { name: "Ganryu", ref: "ganryu", img: ganryu },
     { name: "Geese", ref: "geese", img: geese },

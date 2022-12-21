@@ -4,9 +4,9 @@
         "namejp": "三島 一八",
         "age": "49",
         "bio": "Kazuya was born the son of Heihachi Mishima and Kazumi Mishima and raised on the Mishima Estate, the Mishima Clan's enormous aristocratic home in Japan. Kazuya's mother loved and doted on him, as did Kazuya's grandfather, Jinpachi Mishima, who also taught him Mishima Style Fighting Karate from a young age.",
-        "img": "/src/assets/character_portraits/kazuya_rgb.svg",
+        "img": "../../assets/character_portraits/kazuya_rgb.svg",
         "imgBW": "../character_portraits/kazuya.svg",
-        "natl": "/src/assets/flags/jpn.svg",
+        "natl": "../../assets/flags/jpn.svg",
         "natlalt": "Japan",
         "style": "Mishima Style Karate",
         "combos": "https://www.youtube.com/embed/BxFI5DXl5jg"

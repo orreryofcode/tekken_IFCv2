@@ -4,9 +4,9 @@
         "namejp": "ドラグノフ",
         "age": "26",
         "bio": "Dragunov is cold, calculating, and completely impassive when fighting opponents. Aside from a few lines of dialogue, Dragunov is an elective mute, speaking only a few words throughout the entire series.",
-        "img": "/src/assets/character_portraits/dragunov_rgb.svg",
+        "img": "../../assets/character_portraits/dragunov_rgb.svg",
         "imgBW": "../character_portraits/dragunov.svg",
-        "natl": "/src/assets/flags/rus.svg",
+        "natl": "../../assets/flags/rus.svg",
         "natlalt": "Russia",
         "style": "Sambo",
         "combos": "https://www.youtube.com/embed/UvW7yTqm3b4"

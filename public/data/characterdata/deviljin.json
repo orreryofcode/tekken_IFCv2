@@ -4,9 +4,9 @@
         "namejp": "デビル仁",
         "age": "Unknown",
         "bio": "When the Devil Gene completely takes over Jin's mind, he becomes a crazed, aggressive, destructive and brooding devil.",
-        "img": "/src/assets/character_portraits/dvj_rgb.svg",
+        "img": "../../assets/character_portraits/dvj_rgb.svg",
         "imgBW": "../character_portraits/dvj.svg",
-        "natl": "/src/assets/flags/unknown.svg",
+        "natl": "../../assets/flags/unknown.svg",
         "natlalt": "Unknown",
         "style": "Mishima/Kazama Style Karate",
         "combos": "https://www.youtube.com/embed/hoOjm-fXxr4"

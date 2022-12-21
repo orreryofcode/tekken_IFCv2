@@ -85,7 +85,6 @@
   display: block;
   width: 17rem;
   height: 10rem;
-  animation: fade-in 0.4s;
   transition: all 0.4s;
 }
 

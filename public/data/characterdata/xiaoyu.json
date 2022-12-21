@@ -4,9 +4,9 @@
         "namejp": "シャオユウ",
         "age": "18",
         "bio": "Xiaoyu ran away from her parents whilst on vacation with them in Hong Kong. She stowed away on a ship that bore the Mishima Zaibatsu name, in order to demand that Heihachi Mishima build her a theme park. Heihachi discovered Xiaoyu had beaten his men who'd tried to apprehend her on board, and was so impressed by her skill and audacity that he took her on as a ward of the Mishima Zaibatsu. ",
-        "img": "/src/assets/character_portraits/xiaoyu_rgb.svg",
+        "img": "../../assets/character_portraits/xiaoyu_rgb.svg",
         "imgBW": "../character_portraits/xiaoyu.svg",
-        "natl": "/src/assets/flags/cn.svg",
+        "natl": "../../assets/flags/cn.svg",
         "natlalt": "China",
         "style": "Baguazhang/Piguaquan Martial Arts",
         "combos": "https://www.youtube.com/embed/IcTmSloiR8E"

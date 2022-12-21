@@ -19,6 +19,8 @@ function CharBio({ charDetails }) {
               src={charDetails[0].natl}
               alt={charDetails[0].natlalt}
               className='charInfo__natl'
+              width='20'
+              height='15'
             />
           </span>
         </p>

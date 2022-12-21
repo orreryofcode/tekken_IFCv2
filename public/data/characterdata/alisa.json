@@ -4,9 +4,9 @@
         "namejp": "アリサ",
         "age": "Unknown",
         "bio": "Doctor Bosconovitch, a genius Russian scientist, had long been seeking a way to revive his daughter. Alisa is the fruit of that research, being a robot who bears her image, name, and personality. ",
-        "img": "/src/assets/character_portraits/alisa_rgb.svg",
+        "img": "../../assets/character_portraits/alisa_rgb.svg",
         "imgBW": "../character_portraits/alisa.svg",
-        "natl": "/src/assets/flags/rus.svg",
+        "natl": "../../assets/flags/rus.svg",
         "natlalt": "Russia",
         "style": "Unique",
         "combos": "https://www.youtube.com/embed/ulP6KPvCoZI" 

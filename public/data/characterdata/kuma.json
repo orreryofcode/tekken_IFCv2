@@ -4,9 +4,9 @@
         "namejp": "クマ",
         "age": "Unknown",
         "bio": "Kuma was a bear cub found abandoned in the forests of the Mishima estate by Heihachi Mishima, who took him in as a pet. As he grew to adulthood, Kuma began to show a superior intellect, and Heihachi, upon realizing this, began to train him, teaching him sign language, fighting techniques and basic Japanese. Due to Kuma's impressive abilities, Heihachi made him his bodyguard and Kuma accompanied him to the first King of Iron Fist Tournament, where he was later defeated by Paul Phoenix.",
-        "img": "/src/assets/character_portraits/kuma_rgb.svg",
+        "img": "../../assets/character_portraits/kuma_rgb.svg",
         "imgBW": "../character_portraits/kuma.svg",
-        "natl": "/src/assets/flags/jpn.svg",
+        "natl": "../../assets/flags/jpn.svg",
         "natlalt": "Japan",
         "style": "Heihachi-Style Kuma Shinken",
         "combos": "https://www.youtube.com/embed/H92NCpNqtXI"

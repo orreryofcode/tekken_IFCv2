@@ -4,9 +4,9 @@
         "namejp": "ギース",
         "age": "43",
         "bio": "Although defined by his pride and insatiable lust for power in all its forms, Geese is both cunning and strong. He knows all of the faces of power, from money to immortality, and in many cases, he is well aware of the paths by which to obtain such power; such paths were taught through the harsh lessons Geese learned during childhood and while working his way up the underworld of his native South Town.",
-        "img": "/src/assets/character_portraits/geese_rgb.svg",
+        "img": "../../assets/character_portraits/geese_rgb.svg",
         "imgBW": "../character_portraits/geese.svg",
-        "natl": "/src/assets/flags/usa.svg",
+        "natl": "../../assets/flags/usa.svg",
         "natlalt": "USA",
         "style": "Kobujutsu",
         "combos": "https://www.youtube.com/embed/g_DlpoMDh14"

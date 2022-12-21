@@ -55,7 +55,7 @@ import {
 function CharacterSelect() {
   const characters = [
     { name: "Akuma", ref: "akuma", img: akuma },
-    { name: "Alisa", ref: "Alisa", img: alisa },
+    { name: "Alisa", ref: "alisa", img: alisa },
     { name: "Anna", ref: "anna", img: anna },
     { name: "Armor King", ref: "armorking", img: armorking },
     { name: "Asuka", ref: "asuka", img: asuka },

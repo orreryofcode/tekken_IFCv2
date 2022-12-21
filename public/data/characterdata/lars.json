@@ -6,7 +6,8 @@
         "bio": "Lars has a heroic personality and a strong sense of justice. When the Mishima Zaibatsu no longer aligned with what he believed to be right, he led a coup against them. He is clearly a man of charisma and commands the respect of his peers, as nearly half of Tekken Force chose to join his rebel army during his insurrection.",
         "img": "/src/assets/character_portraits/lars_rgb.svg",
         "imgBW": "../character_portraits/lars.svg",
-        "natl": "../flags/usa.png",
+        "natl": "/src/assets/flags/swe.svg",
+        "natlalt": "Sweden",
         "style": "Tekken Forces Martial Arts"
     }
    

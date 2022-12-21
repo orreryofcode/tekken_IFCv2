@@ -6,7 +6,8 @@
         "bio": "Lidia was born into a family that had produced many prominent politicians. When Lidia was 10 years old, her grandfather was elected president of Poland. Despite her family background, Lidia had no intention of becoming a politician. Instead, she wanted to continue to study traditional karate, which she had been training in for some time. ",
         "img": "/src/assets/character_portraits/lidia_rgb.svg",
         "imgBW": "../character_portraits/lidia.svg",
-        "natl": "../flags/usa.png",
+        "natl": "/src/assets/flags/pol.svg",
+        "natlalt": "Poland",
         "style": "Karate"
     }   
 ]

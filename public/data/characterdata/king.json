@@ -6,7 +6,8 @@
         "bio": "The second King was a street urchin who was brought up in the first King's orphanage. Until the age of twenty-four, this person worked hard with King until, one day, news broke of the first King's death. Seeing that the orphanage would crumble into ruin (the money gained from King's wrestling matches was the only funding it received), this man donned the mask of King and imitated his style.",
         "img": "/src/assets/character_portraits/king_rgb.svg",
         "imgBW": "../character_portraits/king.svg",
-        "natl": "../flags/mx.png",
+        "natl": "/src/assets/flags/mx.svg",
+        "natlalt": "Mexico",
         "style": "Lucha Libre"
     }
    

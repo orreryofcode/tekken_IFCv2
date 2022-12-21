@@ -7,7 +7,8 @@
         "img": "/src/assets/character_portraits/ganryu_rgb.svg",
         "imgBW": "../character_portraits/ganryu.svg",
         "natl": "/src/assets/flags/jpn.svg",
-        "style": "GSumo"
+        "natlalt": "Japan",
+        "style": "Sumo"
     }
    
 ]

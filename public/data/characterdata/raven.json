@@ -6,7 +6,8 @@
         "bio": "Very little is known about Master Raven. Nevertheless, the fighter appears to have a cold attitude and seems to take her mission seriously, as she says: \"Mission accomplished\" when winning a battle. Much like Raven before her, her true identity remains unknown and she uses a codename \"Master Raven\" suggesting that the name \"Raven\" is used as a class within the United Nations secret agent division to which they both belong.",
         "img": "/src/assets/character_portraits/raven_rgb.svg",
         "imgBW": "../character_portraits/raven.svg",
-        "natl": "../flags/usa.png",
+        "natl": "/src/assets/flags/unknown.svg",
+        "natlalt": "Unknown",
         "style": "Ninjutsu"
     }
    

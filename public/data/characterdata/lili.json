@@ -6,7 +6,8 @@
         "bio": "Lili has all the classic characteristics of an excessively spoiled girl. The only child of a wealthy oil industrialist, Lili seems to have always had a very comfortable life. She is also very mannered in her gestures during her cutscenes. Her bourgeois side being highlighted when she announces it is time for her afternoon tea, a habit that was very widespread among the aristocracy. This habit is also shown in one of her intros in Tekken 7 where she is having tea before the fight.",
         "img": "/src/assets/character_portraits/lili_rgb.svg",
         "imgBW": "../character_portraits/lili.svg",
-        "natl": "../flags/usa.png",
+        "natl": "/src/assets/flags/mon.svg",
+        "natlalt": "Monaco",
         "style": "Gymnastics"
     }
    

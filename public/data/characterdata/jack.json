@@ -6,7 +6,8 @@
         "bio": "The first Jack was built by the Russian military, though with programming data provided by the Mishima Zaibatsu. It was a killing machine built purely for destruction. After proving himself in the first King of Iron Fist Tournament, updated Jack robots were put into mass production and utilized in battlegrounds.",
         "img": "/src/assets/character_portraits/jack_rgb.svg",
         "imgBW": "../character_portraits/jack.svg",
-        "natl": "Unknown",
+        "natl": "/src/assets/flags/rus.svg",
+        "natlalt": "Russia",
         "style": "Brute Force"
     }
    

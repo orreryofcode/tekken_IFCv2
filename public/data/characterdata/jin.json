@@ -7,6 +7,7 @@
         "img": "/src/assets/character_portraits/jinkazama_rgb.svg",
         "imgBW": "../character_portraits/jinkazama.svg",
         "natl": "/src/assets/flags/jpn.svg",
+        "natlalt": "Japan",
         "style": "Mishima/Kazama style Karate"
     }
     

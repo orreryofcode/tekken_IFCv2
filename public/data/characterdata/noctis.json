@@ -7,6 +7,7 @@
         "img": "/src/assets/character_portraits/noctis_rgb.svg",
         "imgBW": "../character_portraits/noctis.svg",
         "natl": "/src/assets/flags/jpn.svg",
+        "natlalt": "Japan",
         "style": "Weapon Summoning"
     }
    

@@ -7,6 +7,7 @@
         "img": "/src/assets/character_portraits/bryan_rgb.svg",
         "imgBW": "../character_portraits/bryan.svg",
         "natl": "/src/assets/flags/usa.svg",
+        "natlalt": "USA",
         "style": "Kickboxing"
     }
    

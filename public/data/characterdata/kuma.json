@@ -7,6 +7,7 @@
         "img": "/src/assets/character_portraits/kuma_rgb.svg",
         "imgBW": "../character_portraits/kuma.svg",
         "natl": "/src/assets/flags/jpn.svg",
+        "natlalt": "Japan",
         "style": "Heihachi-Style Kuma Shinken"
     }
    

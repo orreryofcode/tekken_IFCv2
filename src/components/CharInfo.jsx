@@ -5,6 +5,7 @@ import KeyMoves from "../components/KeyMoves";
 import SandW from "../components/SandW";
 import TopMoves from "../components/TopMoves";
 import FrameDataTable from "../components/FrameDataTable";
+import Combos from "./Combos";
 
 function CharInfo({ frameData, charData }) {
   const [dataToRender, setDataToRender] = useState("topMoves");
@@ -64,6 +65,7 @@ function CharInfo({ frameData, charData }) {
         </>
       )}
       {dataToRender === "frameData" && <FrameDataTable frameData={frameData} />}
+      {dataToRender === "combos" && <Combos />}
     </>
   );
 }

@@ -5,7 +5,7 @@ function Navbar() {
   return (
     <div className='navbar__container'>
       <nav className='navbar__nav'>
-        <img src={logo} alt='' />
+        <img src={logo} alt='Logo' width='84px' height='89px' />
         <ul className='navbar__list'>
           <li className='navbar__item'>
             <Link to='/' className='navbar__link'>

@@ -1,8 +1,6 @@
-import React from "react";
-
 function SandW() {
   return (
-    <div className='sandw__container'>
+    <section className='sandw__container'>
       <div className='sandw__container--inner'>
         <section className='sandw__strengths'>
           <h4>Strengths</h4>
@@ -21,7 +19,7 @@ function SandW() {
           </ul>
         </section>
       </div>
-    </div>
+    </section>
   );
 }
 

@@ -60,11 +60,40 @@
 
 .characterSelect__list {
   display: grid;
-  grid-template-columns: repeat(8, minmax(max-content, 1fr));
+  grid-template-columns: repeat(5, minmax(max-content, 1fr));
   column-gap: 1rem;
   row-gap: 1.2rem;
   margin-top: 3rem;
   padding: 3rem;
+}
+
+.charInfo__portrait--select {
+  position: relative;
+  background-color: #5c1c23;
+
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  display: block;
+  width: 17rem;
+  height: 10rem;
+  animation: fade-in 0.4s;
+  transition: all 0.4s;
+}
+
+.charInfo__portrait--select:hover {
+  transform: scale(1.2);
+  background-color: #a41f1f;
+  z-index: 10;
+}
+
+.charInfo__portrait--select span {
+  color: white;
+  position: absolute;
+  font-size: 2rem;
+  font-weight: 600;
+  left: 0.7rem;
+  bottom: 0.5rem;
 }
 
 .charInfo__wrapper {
@@ -93,34 +122,6 @@
   animation: fade-in 0.4s;
 }
 
-.charInfo__portrait--select {
-  position: relative;
-  background-color: #5c1c23;
-
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
-  display: block;
-  width: 10rem;
-  height: 10rem;
-  animation: fade-in 0.4s;
-  transition: all 0.4s;
-}
-
-.charInfo__portrait--select:hover {
-  transform: scale(1.2);
-  background-color: #a41f1f;
-}
-
-.charInfo__portrait--select span {
-  color: white;
-  position: absolute;
-  font-size: 1.5rem;
-  font-weight: 600;
-  right: 1rem;
-  bottom: 0.2rem;
-}
-
 .charInfo__details {
   width: 65%;
   display: flex;
@@ -134,10 +135,11 @@
 }
 
 .charInfo__name h1 {
-  font-size: 10rem;
+  font-size: 15rem;
   text-align: right;
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
   font-style: italic;
-  /* letter-spacing: 20px; */
+
   white-space: nowrap;
 }
 
@@ -147,7 +149,6 @@
   top: 25%;
   left: 50%;
   transform: translate(-50%, -50%);
-
   z-index: -1;
 }
 
@@ -177,6 +178,7 @@
   border-radius: 6px;
   background-color: #5c1c23;
   color: white;
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
   font-weight: 600;
   font-size: 1.5rem;
   transition: all 0.2s;
@@ -288,14 +290,16 @@
 /* Top Moves */
 .topmoves__container,
 .framedata__container,
-.keymoves__container {
+.keymoves__container,
+.combos__container {
   padding: 1.5rem 1.3rem;
   animation: fade-in 0.4s;
 }
 
 .topmoves__container--inner,
 .keymoves__container--inner,
-.framedata__container--inner {
+.framedata__container--inner,
+.combos__container--inner {
   background-color: #212121;
   padding: 2rem 4rem;
   border-radius: 6px;
@@ -304,22 +308,32 @@
   outline: 1px solid #1d1d1d99;
 }
 
+.combos__container--inner {
+  padding-bottom: 40rem;
+}
+
 .topmoves__heading {
   display: flex;
 }
 
 .topmoves__heading h4,
 .keymoves__heading h4,
-.framedata__heading h4 {
+.framedata__heading h4,
+.combos__container h4 {
   font-size: 1.5rem;
 }
 
 .topmoves__heading p,
-.keymoves__heading p {
+.keymoves__heading p,
+.combos__container p {
   font-size: 1.2rem;
   margin-left: 1rem;
   font-weight: 600;
   color: #7e7e7e;
+}
+
+.combos__container p {
+  margin-left: 0rem;
 }
 
 .keymoves__heading p {

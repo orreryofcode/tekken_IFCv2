@@ -6,7 +6,8 @@
         "bio": "Armor King II's past is shrouded in mystery. What is known is that he and his older brother were a wrestling tag team known collectively as 'Armor King', and both sporting the same outfit.[1] Why his brother decided to keep this a secret from King II while he was training him is unknown. ",
         "img": "/src/assets/character_portraits/ak_rgb.svg",
         "imgBW": "../character_portraits/ak.svg",
-        "natl": "Unknown",
+        "natl": "/src/assets/flags/unknown.svg",
+        "natlalt": "Unknown",
         "style": "Japanese Pro Wrestling"
     }
    

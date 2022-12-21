@@ -54,17 +54,13 @@ import {
 
 function CharacterSelect() {
   const characters = [
-    { name: "Jin", ref: "jin", img: jin },
-    { name: "Bryan", ref: "bryan", img: bryan },
-    { name: "King", ref: "king", img: king },
-    { name: "Nina", ref: "nina", img: nina },
-    { name: "Armor King", ref: "ak", img: ak },
     { name: "Akuma", ref: "akuma", img: akuma },
     { name: "Alisa", ref: "Alisa", img: alisa },
     { name: "Anna", ref: "anna", img: anna },
+    { name: "Armor King", ref: "ak", img: ak },
     { name: "Asuka", ref: "asuka", img: asuka },
     { name: "Bob", ref: "bob", img: bob },
-    { name: "Lucky Chloe", ref: "chloe", img: chloe },
+    { name: "Bryan", ref: "bryan", img: bryan },
     { name: "Claudio", ref: "claudio", img: claudio },
     { name: "Dragunov", ref: "dragunov", img: dragunov },
     { name: "Eliza", ref: "eliza", img: eliza },
@@ -78,11 +74,13 @@ function CharacterSelect() {
     { name: "Heihachi", ref: "heihachi", img: heihachi },
     { name: "Hwoarang", ref: "hwoarang", img: hwoarang },
     { name: "Jack-7", ref: "jack", img: jack },
+    { name: "Jin", ref: "jin", img: jin },
     { name: "Josie", ref: "josie", img: josie },
     { name: "Julia", ref: "julia", img: julia },
     { name: "Katarina", ref: "katarina", img: katarina },
     { name: "Kazumi", ref: "kazumi", img: kazumi },
     { name: "Kazuya", ref: "kazuya", img: kazuya },
+    { name: "King", ref: "king", img: king },
     { name: "Kuma", ref: "kuma", img: kuma },
     { name: "Kunimitsu", ref: "kunimitsu", img: kunimitsu },
     { name: "Lars", ref: "lars", img: lars },
@@ -93,12 +91,14 @@ function CharacterSelect() {
     { name: "Leroy", ref: "leroy", img: leroy },
     { name: "Lidia", ref: "lidia", img: lidia },
     { name: "Lili", ref: "lili", img: lili },
+    { name: "Lucky Chloe", ref: "chloe", img: chloe },
     { name: "Marduk", ref: "marduk", img: marduk },
     { name: "Miguel", ref: "miguel", img: miguel },
     { name: "Negan", ref: "negan", img: negan },
+    { name: "Nina", ref: "nina", img: nina },
     { name: "Noctis", ref: "noctis", img: noctis },
     { name: "Paul", ref: "paul", img: paul },
-    { name: "Raven", ref: "raven", img: raven },
+    { name: "M. Raven", ref: "raven", img: raven },
     { name: "Shaheen", ref: "shaheen", img: shaheen },
     { name: "Steve", ref: "steve", img: steve },
     { name: "Xiaoyu", ref: "xiaoyu", img: xiaoyu },
@@ -120,7 +120,7 @@ function CharacterSelect() {
               style={{
                 backgroundImage: `linear-gradient(to bottom, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.8) ), url(${char.img})`,
               }}>
-              <span>{char.name}</span>
+              <span>{char.name.toUpperCase()}</span>
             </div>
           </Link>
         ))}

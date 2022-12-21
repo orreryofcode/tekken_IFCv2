@@ -6,7 +6,8 @@
         "bio": "Ever since she was very young, Josie had a reputation for being a crybaby. Josie's parents, who were big fans of martial arts, insisted that she begin training. Despite her reluctance at first, Josie was eager to live up to her parents' expectations, and became a top-notch kick-boxer - however, her fighting prowess did not rid her of her sensitive disposition.",
         "img": "/src/assets/character_portraits/josie_rgb.svg",
         "imgBW": "../character_portraits/josie.svg",
-        "natl": "../flags/usa.png",
+        "natl": "/src/assets/flags/phi.svg",
+        "natlalt": "Phillipines",
         "style": "Kickboxing/Muay Thai"
     }
    

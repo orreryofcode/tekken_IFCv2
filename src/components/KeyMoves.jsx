@@ -1,8 +1,6 @@
-import React from "react";
-
 function KeyMoves() {
   return (
-    <div className='keymoves__container'>
+    <section className='keymoves__container'>
       <div className='keymoves__container--inner'>
         <div className='keymoves__heading'>
           <h4>Power Crush</h4>
@@ -120,7 +118,7 @@ function KeyMoves() {
           </table>
         </div>
       </div>
-    </div>
+    </section>
   );
 }
 

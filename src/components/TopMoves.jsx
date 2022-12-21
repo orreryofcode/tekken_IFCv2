@@ -1,8 +1,6 @@
-import React from "react";
-
 function TopMoves() {
   return (
-    <div className='topmoves__container'>
+    <section className='topmoves__container'>
       <div className='topmoves__container--inner'>
         <div className='topmoves__heading'>
           <h4>Top Moves</h4>
@@ -120,7 +118,7 @@ function TopMoves() {
           </table>
         </div>
       </div>
-    </div>
+    </section>
   );
 }
 

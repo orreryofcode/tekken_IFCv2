@@ -6,7 +6,8 @@
         "bio": "Miguel is a rather blood-thirsty and rebellious character, whose reckless nature can be seen as both his weakness and his strength. Miguel is depicted as an undisciplined Spaniard with a very intense passion for fighting, which often brought him into conflict with others. Despite being born into a conservative family, his wild and unruly nature made him the black sheep. ",
         "img": "/src/assets/character_portraits/miguel_rgb.svg",
         "imgBW": "../character_portraits/miguel.svg",
-        "natl": "../flags/usa.png",
+        "natl": "/src/assets/flags/esp.svg",
+        "natlalt": "Spain",
         "style": "Brawling"
     }
    

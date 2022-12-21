@@ -6,7 +6,8 @@
         "bio": "Fahkumram is a tall, intimidating man who possesses numerous tattoos and an incredibly broad muscular appearance. His overall appearance is that of a typical Muay Thai fighter, with bands wrapped over his arms and shins and sporting Muay Thai trunks.",
         "img": "/src/assets/character_portraits/fahkumram_rgb.svg",
         "imgBW": "../character_portraits/fahkumram.svg",
-        "natl": "../flags/usa.png",
+        "natl": "/src/assets/flags/thai.svg",
+        "natlalt": "Thailand",
         "style": "Muay Thai"
     }
    

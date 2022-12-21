@@ -6,7 +6,8 @@
         "bio": "Nina and her younger sister are from a family of assassins, and both hail from the Republic of Ireland. She has been the subject of numerous experiments, first when she was young, second when she failed to assassinate Kazuya Mishima and was forced to undergo cryosleep, and third when she awoke and was temporarily controlled by Ogre. All of these experiments affected her mind and caused emotions to be repressed, or memories and agency to be lost.",
         "img": "/src/assets/character_portraits/nina_rgb.svg",
         "imgBW": "../character_portraits/nina.svg",
-        "natl": "../assets/flags/ire.png",
+        "natl": "/src/assets/flags/ire.svg",
+        "natlalt": "Ireland",
         "style": "Aikido"
     }
 ]

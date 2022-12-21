@@ -6,7 +6,8 @@
         "bio": "Negan has a charismatic, cocky, manipulative and brutal personality with a dark sense of humor. Negan carries a baseball bat wrapped in barbed wire which he named Lucille, after his late wife. During battle, he appears self confident and arrogant, smirking at his opponents in amusement before and after the fight. He has a penchant for provocation and power plays, the stronger resistance he faces, the more he seems to enjoy the showdown. ",
         "img": "/src/assets/character_portraits/negan_rgb.svg",
         "imgBW": "../character_portraits/negan.svg",
-        "natl": "../flags/usa.png",
+        "natl": "/src/assets/flags/usa.svg",
+        "natlalt": "USA",
         "style": "Unknown"
     }
    

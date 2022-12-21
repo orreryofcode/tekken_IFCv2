@@ -6,7 +6,7 @@ function CharBio({ charDetails }) {
         <p className='charInfo__bio-details'>{charDetails[0].bio}</p>
       </div>
 
-      <div className='charInfo__demographics'>
+      <section className='charInfo__demographics'>
         <p>
           {" "}
           <span>Age:</span> {charDetails[0].age}
@@ -17,7 +17,7 @@ function CharBio({ charDetails }) {
           <span>
             <img
               src={charDetails[0].natl}
-              alt='Japan'
+              alt={charDetails[0].natlalt}
               className='charInfo__natl'
             />
           </span>
@@ -26,7 +26,7 @@ function CharBio({ charDetails }) {
           {" "}
           <span>Fighting Style:</span> {charDetails[0].style}
         </p>
-      </div>
+      </section>
     </div>
   );
 }

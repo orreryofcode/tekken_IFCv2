@@ -6,7 +6,8 @@
         "bio": "Zafina was born somewhere in the Middle East to a group of spiritual warriors with an ancient past and, as such, she possesses great spiritual abilities of her own.",
         "img": "/src/assets/character_portraits/zafina_rgb.svg",
         "imgBW": "../character_portraits/zafina.svg",
-        "natl": "../flags/usa.png",
+        "natl": "/src/assets/flags/egy.svg",
+        "natlalt": "Egypt",
         "style": "Ancient Assassination Arts"
     }
    

@@ -352,12 +352,12 @@
   display: flex;
   overflow-y: scroll;
   background-color: #303030;
-  max-height: 135px;
+  max-height: 13.5rem;
   margin-top: 1rem;
 }
 
 .framedata__table {
-  max-height: 550px;
+  max-height: 85rem;
 }
 
 .topmoves__table table,

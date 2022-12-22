@@ -3,7 +3,7 @@ function FrameDataTable({ frameData }) {
     <div className='framedata__container'>
       <div className='framedata__container--inner'>
         <div className='framedata__heading'>
-          <h4>Frame Data</h4>
+          <h3>Frame Data</h3>
         </div>
 
         <div className='framedata__table'>

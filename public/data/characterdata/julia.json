@@ -9,7 +9,9 @@
         "natl": "../../assets/flags/usa.svg",
         "natlalt": "USA",
         "style": "Xin Yi Liu He Quan and Baji Quan",
-        "combos": "https://www.youtube.com/embed/k8t63kqF4Kk"
+        "combos": "https://www.youtube.com/embed/k8t63kqF4Kk",
+        "color": "#7A9831",
+        "bgcolor": "#7A9831"
 
     }
    

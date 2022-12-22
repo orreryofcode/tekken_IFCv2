@@ -3,7 +3,7 @@ function TopMoves() {
     <section className='topmoves__container'>
       <div className='topmoves__container--inner'>
         <div className='topmoves__heading'>
-          <h4>Top Moves</h4>
+          <h3>Top Moves</h3>
           <p>
             These moves are generally considered good in most neutral
             situations.

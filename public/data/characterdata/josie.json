@@ -9,7 +9,9 @@
         "natl": "../../assets/flags/phi.svg",
         "natlalt": "Phillipines",
         "style": "Kickboxing/Muay Thai",
-        "combos": "https://www.youtube.com/embed/6G_CoB5N79Y"
+        "combos": "https://www.youtube.com/embed/6G_CoB5N79Y",
+        "color": "#E8C65B",
+        "bgcolor": "#788AA9"
     }
    
 ]

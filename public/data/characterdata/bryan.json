@@ -9,7 +9,9 @@
         "natl": "../../assets/flags/usa.svg",
         "natlalt": "USA",
         "style": "Kickboxing",
-        "combos": "https://www.youtube.com/embed/PSvyG5foCgE"
+        "combos": "https://www.youtube.com/embed/PSvyG5foCgE",
+        "color": "#105AB2",
+        "bgcolor": "#32465E"
     }
    
 ]

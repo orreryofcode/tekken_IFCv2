@@ -9,7 +9,9 @@
         "natl": "../../assets/flags/jpn.svg",
         "natlalt": "Kazumi",
         "style": "Hachijo/Mishima Style Karate",
-        "combos": "https://www.youtube.com/embed/JJzxIMTF_u8"
+        "combos": "https://www.youtube.com/embed/JJzxIMTF_u8",
+        "color": "#4F0404",
+        "bgcolor": "#F1F1F1"
     }
    
 ]

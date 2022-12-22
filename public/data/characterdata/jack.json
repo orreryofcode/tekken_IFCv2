@@ -9,7 +9,9 @@
         "natl": "../../assets/flags/rus.svg",
         "natlalt": "Russia",
         "style": "Brute Force",
-        "combos": "https://www.youtube.com/embed/N-8X8yHxb48"
+        "combos": "https://www.youtube.com/embed/N-8X8yHxb48",
+        "color": "#00EA6D",
+        "bgcolor": "#3D3D3D"
     }
    
 ]

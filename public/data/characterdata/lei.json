@@ -9,7 +9,9 @@
         "natl": "../../assets/flags/cn.svg",
         "natlalt": "China",
         "style": "5 Animals/Drunken Boxing",
-        "combos": "https://www.youtube.com/embed/zskWIaB59TY"
+        "combos": "https://www.youtube.com/embed/zskWIaB59TY",
+        "color": "#105AB2",
+        "bgcolor": "#FBD6F1"
     }
    
 ]

@@ -9,7 +9,9 @@
         "natl": "../../assets/flags/uk.svg",
         "natlalt": "UK",
         "style": "Boxing",
-        "combos": "https://www.youtube.com/embed/9mzv0cVNcgA"
+        "combos": "https://www.youtube.com/embed/9mzv0cVNcgA",
+        "color": "#4F0404",
+        "bgcolor": "#E4E4E4"
     }
    
 ]

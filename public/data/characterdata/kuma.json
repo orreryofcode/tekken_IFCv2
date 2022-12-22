@@ -9,7 +9,9 @@
         "natl": "../../assets/flags/jpn.svg",
         "natlalt": "Japan",
         "style": "Heihachi-Style Kuma Shinken",
-        "combos": "https://www.youtube.com/embed/H92NCpNqtXI"
+        "combos": "https://www.youtube.com/embed/H92NCpNqtXI",
+        "color": "#4F0404",
+        "bgcolor": "#4F0404"
     }
    
 ]

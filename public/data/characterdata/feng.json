@@ -9,7 +9,9 @@
         "natl": "../../assets/flags/cn.svg",
         "natlalt": "China",
         "style": "God Fist Style Chinese Kenpo",
-        "combos": "https://www.youtube.com/embed/9MdVW9C-3_o"
+        "combos": "https://www.youtube.com/embed/9MdVW9C-3_o",
+        "color": "#B19347",
+        "bgcolor": "#4F0404"
     }
    
 ]

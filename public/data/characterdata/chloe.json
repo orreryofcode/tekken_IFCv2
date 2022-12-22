@@ -9,7 +9,9 @@
         "natl": "../../assets/flags/unknown.svg",
         "natlalt": "Unknown",
         "style": "Freestyle Dance",
-        "combos": "https://www.youtube.com/embed/lDPnAlNhD84"
+        "combos": "https://www.youtube.com/embed/lDPnAlNhD84",
+        "color": "#FBD6F1",  
+        "bgcolor": "#FBD6F1"
     }
    
 ]

@@ -9,7 +9,9 @@
         "natl": "../../assets/flags/usa.svg",
         "natlalt": "USA",
         "style": "Kobujutsu",
-        "combos": "https://www.youtube.com/embed/g_DlpoMDh14"
+        "combos": "https://www.youtube.com/embed/g_DlpoMDh14",
+        "color": "#A58451",
+        "bgcolor": "#B5C4E5"
     }
    
 ]

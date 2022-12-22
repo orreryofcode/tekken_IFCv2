@@ -9,7 +9,9 @@
         "natl": "../../assets/flags/jpn.svg",
         "natlalt": "Japan",
         "style": "Satsui No Hado/Ansatsuken",
-        "combos": "https://www.youtube.com/embed/00HZEf2GYd4"
+        "combos": "https://www.youtube.com/embed/00HZEf2GYd4",
+        "color": "#4F0404",
+        "bgcolor": "#4F0404"
     }
    
 ]

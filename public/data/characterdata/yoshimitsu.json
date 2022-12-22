@@ -9,7 +9,9 @@
         "natl": "../../assets/flags/jpn.svg",
         "natlalt": "Japan",
         "style": "Advanced Manji Ninjutsu",
-        "combos": "https://www.youtube.com/embed/f0S1g9UE6P8"
+        "combos": "https://www.youtube.com/embed/f0S1g9UE6P8",
+        "color": "#4F0404",
+        "bgcolor": "#4F0404"
     }
    
 ]

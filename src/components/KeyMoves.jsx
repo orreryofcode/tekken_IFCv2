@@ -3,7 +3,7 @@ function KeyMoves() {
     <section className='keymoves__container'>
       <div className='keymoves__container--inner'>
         <div className='keymoves__heading'>
-          <h4>Power Crush</h4>
+          <h3>Power Crush</h3>
           <p>
             These moves are generally considered good in most neutral
             situations.

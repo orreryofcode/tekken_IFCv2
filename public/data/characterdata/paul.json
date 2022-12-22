@@ -9,7 +9,9 @@
         "natl": "../../assets/flags/usa.svg",
         "natlalt": "USA",
         "style": "Judo",
-        "combos": "https://www.youtube.com/embed/z9asbD9S4pk"
+        "combos": "https://www.youtube.com/embed/z9asbD9S4pk",
+        "color": "#4F0404",
+        "bgcolor": "#4F0404"
     }
    
 ]

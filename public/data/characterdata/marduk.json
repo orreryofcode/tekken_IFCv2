@@ -9,7 +9,9 @@
         "natl": "../../assets/flags/aus.svg",
         "natlalt": "Australia",
         "style": "Vale Tudo",
-        "combos": "https://www.youtube.com/embed/CeFJv7CY82s"
+        "combos": "https://www.youtube.com/embed/CeFJv7CY82s",
+        "color": "#2BCDAE",
+        "bgcolor": "#161616"
     }
    
 ]

@@ -9,7 +9,9 @@
         "natl": "../../assets/flags/jpn.svg",
         "natlalt": "Japan",
         "style": "Mishima Style Karate",
-        "combos": "https://www.youtube.com/embed/img9BH_iHzs"
+        "combos": "https://www.youtube.com/embed/img9BH_iHzs",
+        "color": "#4F0404",
+        "bgcolor": "#4F0404"
     }
    
 ]

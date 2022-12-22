@@ -9,7 +9,9 @@
         "natl": "../../assets/flags/ger.svg",
         "natlalt": "Germany",
         "style": "Baji Quan",
-        "combos": "https://www.youtube.com/embed/n1SRmuVKkLU"
+        "combos": "https://www.youtube.com/embed/n1SRmuVKkLU",
+        "color": "#FFAB50",
+        "bgcolor": "#FAF6F6"
     }
    
 ]

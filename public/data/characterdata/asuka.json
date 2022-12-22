@@ -9,7 +9,10 @@
         "natl": "../../assets/flags/jpn.svg",
         "natlalt": "Japan",
         "style": "Kazama Style Karate",
-        "combos": "https://www.youtube.com/embed/RyWanj6xjc8"
+        "combos": "https://www.youtube.com/embed/RyWanj6xjc8",
+        "color": "#105AB2",
+        "bgcolor": "#C3E3FD"
+
     }
    
 ]

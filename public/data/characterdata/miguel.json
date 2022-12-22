@@ -9,7 +9,9 @@
         "natl": "../../assets/flags/esp.svg",
         "natlalt": "Spain",
         "style": "Brawling",
-        "combos": "https://www.youtube.com/embed/FJ2v3j7DhVM"
+        "combos": "https://www.youtube.com/embed/FJ2v3j7DhVM",
+        "color": "#4F0404",
+        "bgcolor": "#4F0404"
     }
    
 ]

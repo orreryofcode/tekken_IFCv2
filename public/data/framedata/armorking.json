@@ -6,7 +6,7 @@
   "Startup": 20,
   "oB": -22,
   "oH": "throw",
-  "CH": "throw",
+  "cH": "throw",
   "Notes": "Rage art"
  },
  {
@@ -16,7 +16,7 @@
   "Startup": 20,
   "oB": "+24g",
   "oH": "+24g",
-  "CH": "+24g",
+  "cH": "+24g",
   "Notes": "Rage drive"
  },
  {
@@ -26,7 +26,7 @@
   "Startup": 10,
   "oB": 1,
   "oH": 8,
-  "CH": 8,
+  "cH": 8,
   "Notes": null
  },
  {
@@ -36,7 +36,7 @@
   "Startup": null,
   "oB": -1,
   "oH": 5,
-  "CH": 5,
+  "cH": 5,
   "Notes": null
  },
  {
@@ -46,7 +46,7 @@
   "Startup": null,
   "oB": -5,
   "oH": 1,
-  "CH": "+31g",
+  "cH": "+31g",
   "Notes": null
  },
  {
@@ -56,7 +56,7 @@
   "Startup": 10,
   "oB": 1,
   "oH": 7,
-  "CH": 7,
+  "cH": 7,
   "Notes": null
  },
  {
@@ -66,7 +66,7 @@
   "Startup": null,
   "oB": -1,
   "oH": 7,
-  "CH": 7,
+  "cH": 7,
   "Notes": null
  },
  {
@@ -76,7 +76,7 @@
   "Startup": 17,
   "oB": -14,
   "oH": "KND",
-  "CH": "KND",
+  "cH": "KND",
   "Notes": null
  },
  {
@@ -86,7 +86,7 @@
   "Startup": 13,
   "oB": -5,
   "oH": 6,
-  "CH": "JG",
+  "cH": "JG",
   "Notes": null
  },
  {
@@ -96,7 +96,7 @@
   "Startup": 17,
   "oB": -10,
   "oH": 0,
-  "CH": 0,
+  "cH": 0,
   "Notes": null
  },
  {
@@ -106,7 +106,7 @@
   "Startup": null,
   "oB": -10,
   "oH": 0,
-  "CH": 0,
+  "cH": 0,
   "Notes": null
  },
  {
@@ -116,7 +116,7 @@
   "Startup": null,
   "oB": -3,
   "oH": "KND",
-  "CH": "KND",
+  "cH": "KND",
   "Notes": null
  },
  {
@@ -126,7 +126,7 @@
   "Startup": null,
   "oB": -13,
   "oH": 8,
-  "CH": "KND",
+  "cH": "KND",
   "Notes": null
  },
  {
@@ -136,7 +136,7 @@
   "Startup": "25 js11",
   "oB": -7,
   "oH": 3,
-  "CH": 3,
+  "cH": 3,
   "Notes": null
  },
  {
@@ -146,7 +146,7 @@
   "Startup": null,
   "oB": 0,
   "oH": "Throw",
-  "CH": "Throw",
+  "cH": "Throw",
   "Notes": null
  },
  {
@@ -156,7 +156,7 @@
   "Startup": null,
   "oB": 0,
   "oH": "+2s",
-  "CH": "+2s",
+  "cH": "+2s",
   "Notes": null
  },
  {
@@ -166,7 +166,7 @@
   "Startup": null,
   "oB": -18,
   "oH": "KND",
-  "CH": "KND",
+  "cH": "KND",
   "Notes": null
  },
  {
@@ -176,7 +176,7 @@
   "Startup": 52,
   "oB": "KND",
   "oH": "KND",
-  "CH": "KND",
+  "cH": "KND",
   "Notes": null
  },
  {
@@ -186,7 +186,7 @@
   "Startup": 15,
   "oB": -11,
   "oH": 2,
-  "CH": 2,
+  "cH": 2,
   "Notes": null
  },
  {
@@ -196,7 +196,7 @@
   "Startup": null,
   "oB": -9,
   "oH": "KND",
-  "CH": "KND",
+  "cH": "KND",
   "Notes": null
  },
  {
@@ -206,7 +206,7 @@
   "Startup": 16,
   "oB": -3,
   "oH": 4,
-  "CH": 4,
+  "cH": 4,
   "Notes": null
  },
  {
@@ -216,7 +216,7 @@
   "Startup": null,
   "oB": -7,
   "oH": 3,
-  "CH": 3,
+  "cH": 3,
   "Notes": null
  },
  {
@@ -226,7 +226,7 @@
   "Startup": null,
   "oB": -7,
   "oH": "KND",
-  "CH": "KND",
+  "cH": "KND",
   "Notes": "Tail Spin"
  },
  {
@@ -236,7 +236,7 @@
   "Startup": null,
   "oB": -15,
   "oH": null,
-  "CH": null,
+  "cH": null,
   "Notes": null
  },
  {
@@ -246,7 +246,7 @@
   "Startup": 23,
   "oB": "+2s",
   "oH": "+7s",
-  "CH": "KND",
+  "cH": "KND",
   "Notes": null
  },
  {
@@ -256,7 +256,7 @@
   "Startup": "20 pc8",
   "oB": -13,
   "oH": "KND",
-  "CH": "KND",
+  "cH": "KND",
   "Notes": "Power Crush"
  },
  {
@@ -266,7 +266,7 @@
   "Startup": 13,
   "oB": -20,
   "oH": "KND",
-  "CH": "KND",
+  "cH": "KND",
   "Notes": null
  },
  {
@@ -276,7 +276,7 @@
   "Startup": 13,
   "oB": -1,
   "oH": 7,
-  "CH": 7,
+  "cH": 7,
   "Notes": null
  },
  {
@@ -286,7 +286,7 @@
   "Startup": 15,
   "oB": -12,
   "oH": 4,
-  "CH": "KND",
+  "cH": "KND",
   "Notes": "Homing"
  },
  {
@@ -296,7 +296,7 @@
   "Startup": null,
   "oB": "-12g",
   "oH": -1,
-  "CH": -1,
+  "cH": -1,
   "Notes": null
  },
  {
@@ -306,7 +306,7 @@
   "Startup": 17,
   "oB": -5,
   "oH": 5,
-  "CH": "KND",
+  "cH": "KND",
   "Notes": null
  },
  {
@@ -316,7 +316,7 @@
   "Startup": 12,
   "oB": -4,
   "oH": 7,
-  "CH": 7,
+  "cH": 7,
   "Notes": null
  },
  {
@@ -326,7 +326,7 @@
   "Startup": 23,
   "oB": -4,
   "oH": "KND",
-  "CH": "KND",
+  "cH": "KND",
   "Notes": "Homing, Tail spin"
  },
  {
@@ -336,7 +336,7 @@
   "Startup": "28 cs13",
   "oB": -18,
   "oH": -7,
-  "CH": -7,
+  "cH": -7,
   "Notes": null
  },
  {
@@ -346,7 +346,7 @@
   "Startup": "10 cs4",
   "oB": -5,
   "oH": 6,
-  "CH": 6,
+  "cH": 6,
   "Notes": null
  },
  {
@@ -356,7 +356,7 @@
   "Startup": null,
   "oB": -10,
   "oH": 6,
-  "CH": 6,
+  "cH": 6,
   "Notes": null
  },
  {
@@ -366,7 +366,7 @@
   "Startup": 17,
   "oB": -2,
   "oH": "+5s",
-  "CH": 9,
+  "cH": 9,
   "Notes": null
  },
  {
@@ -376,7 +376,7 @@
   "Startup": null,
   "oB": -14,
   "oH": -3,
-  "CH": -3,
+  "cH": -3,
   "Notes": null
  },
  {
@@ -386,7 +386,7 @@
   "Startup": null,
   "oB": "-11s",
   "oH": "KND",
-  "CH": "KND",
+  "cH": "KND",
   "Notes": null
  },
  {
@@ -396,7 +396,7 @@
   "Startup": 17,
   "oB": -12,
   "oH": 1,
-  "CH": 9,
+  "cH": 9,
   "Notes": null
  },
  {
@@ -406,7 +406,7 @@
   "Startup": "14 cs4",
   "oB": -13,
   "oH": -2,
-  "CH": -2,
+  "cH": -2,
   "Notes": null
  },
  {
@@ -416,7 +416,7 @@
   "Startup": "30 js21",
   "oB": -8,
   "oH": 0,
-  "CH": 0,
+  "cH": 0,
   "Notes": null
  },
  {
@@ -426,7 +426,7 @@
   "Startup": "17 cs6",
   "oB": -16,
   "oH": -5,
-  "CH": -3,
+  "cH": -3,
   "Notes": null
  },
  {
@@ -436,7 +436,7 @@
   "Startup": null,
   "oB": -9,
   "oH": "+15k",
-  "CH": "KND",
+  "cH": "KND",
   "Notes": "Tail spin"
  },
  {
@@ -446,7 +446,7 @@
   "Startup": null,
   "oB": -16,
   "oH": "KND",
-  "CH": "KND",
+  "cH": "KND",
   "Notes": null
  },
  {
@@ -456,7 +456,7 @@
   "Startup": "total 27",
   "oB": null,
   "oH": null,
-  "CH": null,
+  "cH": null,
   "Notes": null
  },
  {
@@ -466,7 +466,7 @@
   "Startup": 14,
   "oB": "-19s",
   "oH": "Throw",
-  "CH": "Throw",
+  "cH": "Throw",
   "Notes": null
  },
  {
@@ -476,7 +476,7 @@
   "Startup": 19,
   "oB": -13,
   "oH": 5,
-  "CH": "KND",
+  "cH": "KND",
   "Notes": null
  },
  {
@@ -486,7 +486,7 @@
   "Startup": 11,
   "oB": 1,
   "oH": 8,
-  "CH": "Launch",
+  "cH": "Launch",
   "Notes": null
  },
  {
@@ -496,7 +496,7 @@
   "Startup": 14,
   "oB": -11,
   "oH": 0,
-  "CH": 0,
+  "cH": 0,
   "Notes": null
  },
  {
@@ -506,7 +506,7 @@
   "Startup": null,
   "oB": -13,
   "oH": 21,
-  "CH": 21,
+  "cH": 21,
   "Notes": null
  },
  {
@@ -516,7 +516,7 @@
   "Startup": null,
   "oB": -9,
   "oH": "+13k",
-  "CH": "KND",
+  "cH": "KND",
   "Notes": "Tail spin"
  },
  {
@@ -526,7 +526,7 @@
   "Startup": "23 cs8",
   "oB": -26,
   "oH": 5,
-  "CH": "KND(JG)",
+  "cH": "KND(JG)",
   "Notes": "Homing"
  },
  {
@@ -536,7 +536,7 @@
   "Startup": "29 cs6 js16",
   "oB": -20,
   "oH": "KND",
-  "CH": "KND",
+  "cH": "KND",
   "Notes": null
  },
  {
@@ -546,7 +546,7 @@
   "Startup": 26,
   "oB": 5,
   "oH": "KND",
-  "CH": "Launch",
+  "cH": "Launch",
   "Notes": null
  },
  {
@@ -556,7 +556,7 @@
   "Startup": null,
   "oB": null,
   "oH": null,
-  "CH": null,
+  "cH": null,
   "Notes": null
  },
  {
@@ -566,7 +566,7 @@
   "Startup": 12,
   "oB": -7,
   "oH": 5,
-  "CH": "KND",
+  "cH": "KND",
   "Notes": null
  },
  {
@@ -576,7 +576,7 @@
   "Startup": null,
   "oB": -12,
   "oH": 6,
-  "CH": "KND",
+  "cH": "KND",
   "Notes": null
  },
  {
@@ -586,7 +586,7 @@
   "Startup": 15,
   "oB": -9,
   "oH": "+2s",
-  "CH": "+2s",
+  "cH": "+2s",
   "Notes": null
  },
  {
@@ -596,7 +596,7 @@
   "Startup": null,
   "oB": -12,
   "oH": -1,
-  "CH": -1,
+  "cH": -1,
   "Notes": null
  },
  {
@@ -606,7 +606,7 @@
   "Startup": null,
   "oB": -7,
   "oH": "KND",
-  "CH": "KND",
+  "cH": "KND",
   "Notes": "Tail spin"
  },
  {
@@ -616,7 +616,7 @@
   "Startup": 16,
   "oB": -10,
   "oH": "KND",
-  "CH": "KND",
+  "cH": "KND",
   "Notes": null
  },
  {
@@ -626,7 +626,7 @@
   "Startup": 15,
   "oB": -9,
   "oH": 2,
-  "CH": 2,
+  "cH": 2,
   "Notes": null
  },
  {
@@ -636,7 +636,7 @@
   "Startup": null,
   "oB": null,
   "oH": "throw",
-  "CH": null,
+  "cH": null,
   "Notes": null
  },
  {
@@ -646,7 +646,7 @@
   "Startup": 18,
   "oB": 1,
   "oH": 5,
-  "CH": 16,
+  "cH": 16,
   "Notes": null
  },
  {
@@ -656,7 +656,7 @@
   "Startup": 31,
   "oB": -13,
   "oH": "KND",
-  "CH": "KND",
+  "cH": "KND",
   "Notes": null
  },
  {
@@ -666,7 +666,7 @@
   "Startup": 3,
   "oB": "JG",
   "oH": "JG",
-  "CH": "JG",
+  "cH": "JG",
   "Notes": null
  },
  {
@@ -676,7 +676,7 @@
   "Startup": 20,
   "oB": -6,
   "oH": "KND",
-  "CH": "KND",
+  "cH": "KND",
   "Notes": "Homing"
  },
  {
@@ -686,7 +686,7 @@
   "Startup": "18 js9",
   "oB": -12,
   "oH": -1,
-  "CH": -1,
+  "cH": -1,
   "Notes": null
  },
  {
@@ -696,7 +696,7 @@
   "Startup": "48 js9",
   "oB": "-18s",
   "oH": "KND",
-  "CH": "KND",
+  "cH": "KND",
   "Notes": null
  },
  {
@@ -706,7 +706,7 @@
   "Startup": 23,
   "oB": -19,
   "oH": "KND",
-  "CH": "KND",
+  "cH": "KND",
   "Notes": null
  },
  {
@@ -716,7 +716,7 @@
   "Startup": "21 js17",
   "oB": -8,
   "oH": 5,
-  "CH": "Launch",
+  "cH": "Launch",
   "Notes": null
  },
  {
@@ -726,7 +726,7 @@
   "Startup": "15 js9",
   "oB": -19,
   "oH": -8,
-  "CH": -8,
+  "cH": -8,
   "Notes": null
  },
  {
@@ -736,7 +736,7 @@
   "Startup": "15 js9",
   "oB": -13,
   "oH": "KND",
-  "CH": "JG",
+  "cH": "JG",
   "Notes": null
  },
  {
@@ -746,7 +746,7 @@
   "Startup": "15 js9",
   "oB": -13,
   "oH": "JG",
-  "CH": "JG",
+  "cH": "JG",
   "Notes": null
  },
  {
@@ -756,7 +756,7 @@
   "Startup": "35 js9",
   "oB": "+2s",
   "oH": "KND",
-  "CH": "KND",
+  "cH": "KND",
   "Notes": null
  },
  {
@@ -766,7 +766,7 @@
   "Startup": 67,
   "oB": "KND",
   "oH": "KND",
-  "CH": "KND",
+  "cH": "KND",
   "Notes": null
  },
  {
@@ -776,7 +776,7 @@
   "Startup": "32 js8",
   "oB": -7,
   "oH": "KND",
-  "CH": "KND",
+  "cH": "KND",
   "Notes": null
  },
  {
@@ -786,7 +786,7 @@
   "Startup": "23 js9",
   "oB": -11,
   "oH": "JG",
-  "CH": "JG",
+  "cH": "JG",
   "Notes": null
  },
  {
@@ -796,7 +796,7 @@
   "Startup": 70,
   "oB": "+2s",
   "oH": "KND",
-  "CH": "KND",
+  "cH": "KND",
   "Notes": null
  },
  {
@@ -806,7 +806,7 @@
   "Startup": 102,
   "oB": "KND",
   "oH": "KND",
-  "CH": "KND",
+  "cH": "KND",
   "Notes": null
  },
  {
@@ -816,7 +816,7 @@
   "Startup": 52,
   "oB": -16,
   "oH": -5,
-  "CH": -3,
+  "cH": -3,
   "Notes": null
  },
  {
@@ -826,7 +826,7 @@
   "Startup": 87,
   "oB": "KND",
   "oH": "KND",
-  "CH": "KND",
+  "cH": "KND",
   "Notes": null
  },
  {
@@ -836,7 +836,7 @@
   "Startup": 16,
   "oB": -8,
   "oH": "KND",
-  "CH": "KND",
+  "cH": "KND",
   "Notes": null
  },
  {
@@ -846,7 +846,7 @@
   "Startup": "19 cs8~37",
   "oB": -14,
   "oH": 7,
-  "CH": "KND",
+  "cH": "KND",
   "Notes": null
  },
  {
@@ -856,7 +856,7 @@
   "Startup": 17,
   "oB": 2,
   "oH": "KND",
-  "CH": "KND",
+  "cH": "KND",
   "Notes": "Homing, Tail spin"
  },
  {
@@ -866,7 +866,7 @@
   "Startup": null,
   "oB": 4,
   "oH": "KND",
-  "CH": "KND",
+  "cH": "KND",
   "Notes": "Homing, Tail spin"
  },
  {
@@ -876,7 +876,7 @@
   "Startup": 17,
   "oB": -14,
   "oH": "KND",
-  "CH": "KND",
+  "cH": "KND",
   "Notes": "Wall bounce"
  },
  {
@@ -886,7 +886,7 @@
   "Startup": "22 js18",
   "oB": -18,
   "oH": "KND",
-  "CH": "KND",
+  "cH": "KND",
   "Notes": null
  },
  {
@@ -896,7 +896,7 @@
   "Startup": "23 js14",
   "oB": -10,
   "oH": "KND",
-  "CH": "KND",
+  "cH": "KND",
   "Notes": null
  },
  {
@@ -906,7 +906,7 @@
   "Startup": "23 js3",
   "oB": "+10g",
   "oH": "KND",
-  "CH": "KND",
+  "cH": "KND",
   "Notes": null
  },
  {
@@ -916,7 +916,7 @@
   "Startup": "28 js9",
   "oB": "+17g",
   "oH": "KND",
-  "CH": "KND",
+  "cH": "KND",
   "Notes": null
  },
  {
@@ -926,7 +926,7 @@
   "Startup": "20 js7",
   "oB": -24,
   "oH": "KND",
-  "CH": "KND",
+  "cH": "KND",
   "Notes": null
  },
  {
@@ -936,7 +936,7 @@
   "Startup": 10,
   "oB": -5,
   "oH": 6,
-  "CH": 6,
+  "cH": 6,
   "Notes": null
  },
  {
@@ -946,7 +946,7 @@
   "Startup": 11,
   "oB": -4,
   "oH": 7,
-  "CH": 7,
+  "cH": 7,
   "Notes": null
  },
  {
@@ -956,7 +956,7 @@
   "Startup": 18,
   "oB": -16,
   "oH": -2,
-  "CH": -2,
+  "cH": -2,
   "Notes": null
  },
  {
@@ -966,7 +966,7 @@
   "Startup": 14,
   "oB": -15,
   "oH": -4,
-  "CH": -4,
+  "cH": -4,
   "Notes": null
  },
  {
@@ -976,7 +976,7 @@
   "Startup": 16,
   "oB": -10,
   "oH": "JG",
-  "CH": "JG",
+  "cH": "JG",
   "Notes": null
  },
  {
@@ -986,7 +986,7 @@
   "Startup": 12,
   "oB": -9,
   "oH": 3,
-  "CH": "KND",
+  "cH": "KND",
   "Notes": null
  },
  {
@@ -996,7 +996,7 @@
   "Startup": 16,
   "oB": 0,
   "oH": "KND",
-  "CH": "KND",
+  "cH": "KND",
   "Notes": null
  },
  {
@@ -1006,7 +1006,7 @@
   "Startup": 11,
   "oB": -6,
   "oH": 5,
-  "CH": 5,
+  "cH": 5,
   "Notes": null
  },
  {
@@ -1016,7 +1016,7 @@
   "Startup": 24,
   "oB": 1,
   "oH": "KND",
-  "CH": "KND",
+  "cH": "KND",
   "Notes": null
  },
  {
@@ -1026,7 +1026,7 @@
   "Startup": 15,
   "oB": -12,
   "oH": -1,
-  "CH": -1,
+  "cH": -1,
   "Notes": null
  },
  {
@@ -1036,7 +1036,7 @@
   "Startup": null,
   "oB": "-13s",
   "oH": "JG",
-  "CH": "JG",
+  "cH": "JG",
   "Notes": null
  },
  {
@@ -1046,7 +1046,7 @@
   "Startup": 19,
   "oB": -12,
   "oH": "KND",
-  "CH": "KND",
+  "cH": "KND",
   "Notes": null
  },
  {
@@ -1056,7 +1056,7 @@
   "Startup": "24 js13",
   "oB": -6,
   "oH": "KND",
-  "CH": "KND",
+  "cH": "KND",
   "Notes": null
  },
  {
@@ -1066,7 +1066,7 @@
   "Startup": null,
   "oB": "-26g",
   "oH": "KND",
-  "CH": "KND",
+  "cH": "KND",
   "Notes": null
  },
  {
@@ -1076,7 +1076,7 @@
   "Startup": 33,
   "oB": null,
   "oH": null,
-  "CH": null,
+  "cH": null,
   "Notes": null
  },
  {
@@ -1086,7 +1086,7 @@
   "Startup": 63,
   "oB": 0,
   "oH": "JG",
-  "CH": "JG",
+  "cH": "JG",
   "Notes": null
  },
  {
@@ -1096,7 +1096,7 @@
   "Startup": 73,
   "oB": "0g",
   "oH": "0g",
-  "CH": "0g",
+  "cH": "0g",
   "Notes": null
  },
  {
@@ -1106,7 +1106,7 @@
   "Startup": 19,
   "oB": -16,
   "oH": -5,
-  "CH": -5,
+  "cH": -5,
   "Notes": null
  },
  {
@@ -1116,7 +1116,7 @@
   "Startup": null,
   "oB": -16,
   "oH": -5,
-  "CH": -5,
+  "cH": -5,
   "Notes": null
  },
  {
@@ -1126,7 +1126,7 @@
   "Startup": null,
   "oB": -16,
   "oH": -5,
-  "CH": -5,
+  "cH": -5,
   "Notes": null
  },
  {
@@ -1136,7 +1136,7 @@
   "Startup": 8,
   "oB": -8,
   "oH": 3,
-  "CH": 3,
+  "cH": 3,
   "Notes": null
  },
  {
@@ -1146,7 +1146,7 @@
   "Startup": 13,
   "oB": -20,
   "oH": "KND",
-  "CH": "KND",
+  "cH": "KND",
   "Notes": null
  },
  {
@@ -1156,7 +1156,7 @@
   "Startup": 18,
   "oB": -10,
   "oH": "KND",
-  "CH": "KND",
+  "cH": "KND",
   "Notes": null
  },
  {
@@ -1166,7 +1166,7 @@
   "Startup": 41,
   "oB": "KND",
   "oH": "KND",
-  "CH": "KND",
+  "cH": "KND",
   "Notes": null
  },
  {
@@ -1176,7 +1176,7 @@
   "Startup": 10,
   "oB": -2,
   "oH": 9,
-  "CH": 9,
+  "cH": 9,
   "Notes": null
  },
  {
@@ -1186,7 +1186,7 @@
   "Startup": 10,
   "oB": -11,
   "oH": 3,
-  "CH": 3,
+  "cH": 3,
   "Notes": null
  },
  {
@@ -1196,7 +1196,7 @@
   "Startup": null,
   "oB": null,
   "oH": null,
-  "CH": null,
+  "cH": null,
   "Notes": null
  },
  {
@@ -1206,7 +1206,7 @@
   "Startup": 15,
   "oB": 6,
   "oH": "KND",
-  "CH": "KND",
+  "cH": "KND",
   "Notes": null
  },
  {
@@ -1216,7 +1216,7 @@
   "Startup": 11,
   "oB": -10,
   "oH": "JG",
-  "CH": "JG",
+  "cH": "JG",
   "Notes": null
  },
  {
@@ -1226,7 +1226,7 @@
   "Startup": 31,
   "oB": "KND",
   "oH": "KND",
-  "CH": "KND",
+  "cH": "KND",
   "Notes": null
  },
  {
@@ -1236,7 +1236,7 @@
   "Startup": "16 js11",
   "oB": -9,
   "oH": "KND",
-  "CH": "KND",
+  "cH": "KND",
   "Notes": null
  },
  {
@@ -1246,7 +1246,7 @@
   "Startup": 28,
   "oB": "+7g~+17g",
   "oH": "+7g~+17g",
-  "CH": "+7g~+17g",
+  "cH": "+7g~+17g",
   "Notes": null
  }
 ]

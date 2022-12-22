@@ -9,7 +9,9 @@
         "natl": "../../assets/flags/unknown.svg",
         "natlalt": "Unknown",
         "style": "Destructive Impulse",
-        "combos": "https://www.youtube.com/embed/DCBm3Ss24sQ"
+        "combos": "https://www.youtube.com/embed/DCBm3Ss24sQ",
+        "color": "#4F0404",
+        "bgcolor": "#4F0404"
     }
    
 ]

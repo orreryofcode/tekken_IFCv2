@@ -9,6 +9,8 @@
         "natl": "../../assets/flags/pol.svg",
         "natlalt": "Poland",
         "style": "Karate",
-        "combos": "https://www.youtube.com/embed/utdK1dPjGMU"
+        "combos": "https://www.youtube.com/embed/utdK1dPjGMU",
+        "color": "#9A1128",
+        "bgcolor": "#F1F1F2"
     }   
 ]

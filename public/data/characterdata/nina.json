@@ -9,7 +9,8 @@
         "natl": "/../../assets/flags/ire.svg",
         "natlalt": "Ireland",
         "style": "Aikido",
-        "combos": "https://www.youtube.com/embed/k7PbQISHyXo"
-
+        "combos": "https://www.youtube.com/embed/k7PbQISHyXo",
+        "color": "#A1A1A1",
+        "bgcolor": "#A1A1A1"
     }
 ]

@@ -9,7 +9,9 @@
         "natl": "../../assets/flags/unknown.svg",
         "natlalt": "Unknown",
         "style": "Japanese Pro Wrestling",
-        "combos": "https://www.youtube.com/embed/ZXHo4eL_VyI"
+        "combos": "https://www.youtube.com/embed/ZXHo4eL_VyI",
+        "color": "#4F0404",
+        "bgcolor": "#4F0404"
     }
    
 ]

@@ -8,8 +8,10 @@
         "imgBW": "../character_portraits/jinkazama.svg",
         "natl": "../../assets/flags/jpn.svg",
         "natlalt": "Japan",
-        "style": "Mishima/Kazama style Karate",
-        "combos": "https://www.youtube.com/embed/8Tf8Daakia4"
+        "style": "Mishima/Kazama Style Karate",
+        "combos": "https://www.youtube.com/embed/8Tf8Daakia4",
+        "color": "#4F0404",
+        "bgcolor": "#4F0404"
     }
     
    

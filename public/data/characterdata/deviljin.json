@@ -9,7 +9,9 @@
         "natl": "../../assets/flags/unknown.svg",
         "natlalt": "Unknown",
         "style": "Mishima/Kazama Style Karate",
-        "combos": "https://www.youtube.com/embed/hoOjm-fXxr4"
+        "combos": "https://www.youtube.com/embed/hoOjm-fXxr4",
+        "color": "#4F0404",
+        "bgcolor": "#4F0404"
     }
    
 ]

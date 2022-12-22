@@ -9,7 +9,9 @@
         "natl": "../../assets/flags/sa.svg",
         "natlalt": "Saudi Arabia",
         "style": "Unknown",
-        "combos": "https://www.youtube.com/embed/lXFmXWJ3WTg"
+        "combos": "https://www.youtube.com/embed/lXFmXWJ3WTg",
+        "color": "#4F0404",
+        "bgcolor": "#4F0404"
     }
    
 ]

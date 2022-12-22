@@ -9,7 +9,9 @@
         "natl": "../../assets/flags/bra.svg",
         "natlalt": "Brazil",
         "style": "Savate",
-        "combos": "https://www.youtube.com/embed/rhide8oNCcQ"
+        "combos": "https://www.youtube.com/embed/rhide8oNCcQ",
+        "color": "#225710",
+        "bgcolor": "#FEF2DA"
     }
    
 ]

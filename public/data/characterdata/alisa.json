@@ -9,7 +9,9 @@
         "natl": "../../assets/flags/rus.svg",
         "natlalt": "Russia",
         "style": "Unique",
-        "combos": "https://www.youtube.com/embed/ulP6KPvCoZI" 
+        "combos": "https://www.youtube.com/embed/ulP6KPvCoZI",
+        "color": "#FBD6F1",  
+        "bgcolor": "#FBD6F1"
     }
    
 ]

@@ -9,7 +9,9 @@
         "natl": "../../assets/flags/mx.svg",
         "natlalt": "Mexico",
         "style": "Lucha Libre",
-        "combos": "https://www.youtube.com/embed/8Ssl0nluge4"
+        "combos": "https://www.youtube.com/embed/8Ssl0nluge4",
+        "color": "#F9C12C",
+        "bgcolor": "#566C68"
     }
    
 ]

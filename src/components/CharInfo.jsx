@@ -14,10 +14,15 @@ function CharInfo({ frameData, charData }) {
     setDataToRender(e.target.value);
   };
 
+  const charStyle = {
+    backgroundImage: `linear-gradient(to bottom, ${charData[0].color}, transparent)`,
+    backgroundClip: "text",
+  };
+
   return (
     <>
       <div className='charInfo__name--jpn'>
-        <span>{charData[0].namejp}</span>
+        <span style={charStyle}>{charData[0].namejp}</span>
       </div>
       <div className='charInfo__container'>
         <div>

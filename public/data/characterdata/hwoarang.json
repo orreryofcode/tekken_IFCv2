@@ -9,7 +9,9 @@
         "natl": "../../assets/flags/kor.svg",
         "natlalt": "S. Korea",
         "style": "Taekwondo",
-        "combos": "https://www.youtube.com/embed/jxaZb3dcrqE"
+        "combos": "https://www.youtube.com/embed/jxaZb3dcrqE",
+        "color": "#c4092e",
+        "bgcolor": "#E4E4E4"
     }
    
 ]

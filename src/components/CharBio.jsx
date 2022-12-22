@@ -2,7 +2,7 @@ function CharBio({ charDetails }) {
   return (
     <div className='charInfo__bio-wrapper'>
       <div className='charInfo__bio'>
-        <h4>Biography:</h4>
+        <h3>Biography:</h3>
         <p className='charInfo__bio-details'>{charDetails[0].bio}</p>
       </div>
 

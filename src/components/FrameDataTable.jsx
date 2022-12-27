@@ -15,7 +15,7 @@ function FrameDataTable({ frameData }) {
                 <th>oB</th>
                 <th>oH</th>
                 <th>CH</th>
-                <th>Spcl.</th>
+                <th>Level</th>
                 <th>Notes</th>
               </tr>
             </thead>

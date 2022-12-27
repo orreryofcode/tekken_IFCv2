@@ -13,17 +13,17 @@ function Navbar() {
               Home
             </Link>
           </li>
-          <li className='navbar__item'>
+          {/* <li className='navbar__item'>
             <Link to='/about' className='navbar__link'>
               About
             </Link>
-          </li>
+          </li> */}
 
-          <li className='navbar__item'>
+          {/* <li className='navbar__item'>
             <Link to='/support' className='navbar__link'>
               Support
             </Link>
-          </li>
+          </li> */}
         </ul>
       </nav>
     </header>

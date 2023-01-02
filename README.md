@@ -65,7 +65,9 @@ players having to look for different sites, Google sheets, YouTube videos and a
 variety of other online resources, I wanted to create something where players
 could find what they needed within a couple of clicks.
 
-Jin Kazama ![Jin Kazama](/public/assets/mockup/Jin%20Kazama.png)
+### Jin Kazama
+
+![Jin Kazama](/public/assets/mockup/Jin%20Kazama.png)
 
 ### Bryan Fury
 
